@@ -55,7 +55,7 @@ SITE_CLIPS = {
         "swatch-finish": (49, 136, 295, 436), "swatch-rattan": (302, 136, 550, 436),
         "swatch-fabric": (49, 467, 295, 764), "swatch-webbing": (302, 467, 550, 764),
     },
-    51: {"logo": (67, 236, 241, 410)},
+    51: {"logo": (57, 216, 241, 410)},
 }
 PROCESS_LABELS = ["Raw Material", "Kiln Dry / Oven", "Craftsman Process", "Over Process",
                   "Sanding Process", "QC Process", "Packing Process", "Loading Process"]
@@ -192,7 +192,10 @@ def extract_products(doc) -> list[dict]:
 
 def extract_site_images(doc) -> None:
     SITE_DIR.mkdir(parents=True, exist_ok=True)
-    hero = max(doc[0].get_images(full=True), key=lambda i: i[2] * i[3])
+    # ponytail: pick by encoded byte size, not pixel area — a flat-color overlay on this
+    # cover page has a huge pixel area but tiny file size next to the real photo; if the PDF
+    # ever ships only solid-color XObjects this heuristic would need a real entropy check.
+    hero = max(doc[0].get_images(full=True), key=lambda i: len(doc.extract_image(i[0])["image"]))
     img = doc.extract_image(hero[0])
     ext = "jpg" if img["ext"] in ("jpg", "jpeg") else img["ext"]
     (SITE_DIR / f"hero.{ext}").write_bytes(img["image"])
