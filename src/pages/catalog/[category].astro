@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ProductCard from '../../components/ProductCard.astro';
+import ProductDialog from '../../components/ProductDialog.astro';
+import { CATEGORIES, categoryBySlug } from '../../data/categories';
+
+export async function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { category: c.slug } }));
+}
+const category = categoryBySlug(Astro.params.category!);
+const products = (await getCollection('products', (p) => p.data.category === category.slug))
+  .map((p) => p.data).sort((a, b) => a.code.localeCompare(b.code));
+const materials = [...new Set(products.map((p) => p.material))].sort();
+---
+<Base title={category.title} description={`${category.title} by Estie Kusuma Indonesia: ${products.length} teak designs, finish and fabric by request. ${category.blurb}`}>
+  <nav class="switcher" aria-label="Categories">
+    <ul class="container">
+      {CATEGORIES.map((c) => <li><a href={`/catalog/${c.slug}/`} aria-current={c.slug === category.slug ? 'page' : undefined}>{c.title}</a></li>)}
+    </ul>
+  </nav>
+  <section class="section container">
+    <p class="section-label">Catalog</p>
+    <div class="head">
+      <div><h1>{category.title}</h1><p class="lead">{category.blurb}</p></div>
+      <label class="filter">
+        <span class="mono">Material</span>
+        <select id="material-filter">
+          <option value="">All materials</option>
+          {materials.map((m) => <option value={m}>{m}</option>)}
+        </select>
+        <span class="mono" id="result-count" aria-live="polite"></span>
+      </label>
+    </div>
+    <div class="grid">
+      {products.map((p) => <ProductCard product={p} />)}
+    </div>
+  </section>
+  <ProductDialog />
+  <script src="../../scripts/catalog.ts"></script>
+</Base>
+<style>
+  .switcher { position: sticky; top: 4rem; z-index: 10; background: var(--paper); border-bottom: 1px solid var(--line); }
+  .switcher ul { display: flex; gap: 1.25rem; overflow-x: auto; list-style: none; margin: 0 auto; padding: 0.75rem var(--gutter); scrollbar-width: none; white-space: nowrap; }
+  .switcher a { text-decoration: none; font-size: 0.95rem; padding-bottom: 0.25rem; border-bottom: 2px solid transparent; }
+  .switcher a[aria-current="page"] { border-color: var(--amber); color: var(--amber); }
+  .head { display: grid; gap: 1.5rem; align-items: end; margin-bottom: 2.5rem; }
+  @media (min-width: 800px) { .head { grid-template-columns: 1fr auto; } }
+  .lead { color: var(--ink-soft); max-width: 56ch; }
+  .filter { display: flex; align-items: center; gap: 0.75rem; }
+  select { font: inherit; padding: 0.5rem 0.75rem; border: 1px solid var(--ink); border-radius: 999px; background: transparent; color: var(--ink); }
+  .grid { display: grid; gap: 1.5rem 1.25rem; grid-template-columns: repeat(2, 1fr); }
+  @media (min-width: 720px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 1100px) { .grid { grid-template-columns: repeat(4, 1fr); } }
+</style>
