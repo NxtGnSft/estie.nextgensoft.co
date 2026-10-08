@@ -1,0 +1,5210 @@
+[
+  {
+    "code": "DC-01",
+    "slug": "dc-01",
+    "category": "dining-chairs",
+    "name": "Hiroshima Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 52 x 83 cm",
+      "w": 45,
+      "d": 52,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-01.png",
+    "page": 5
+  },
+  {
+    "code": "DC-02",
+    "slug": "dc-02",
+    "category": "dining-chairs",
+    "name": "Alda Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 50 x 75 cm",
+      "w": 55,
+      "d": 50,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-02.png",
+    "page": 5
+  },
+  {
+    "code": "DC-03",
+    "slug": "dc-03",
+    "category": "dining-chairs",
+    "name": "Lumier Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 55 x 75 cm",
+      "w": 55,
+      "d": 55,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-03.png",
+    "page": 5
+  },
+  {
+    "code": "DC-04",
+    "slug": "dc-04",
+    "category": "dining-chairs",
+    "name": "Klara Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 55 x 75 cm",
+      "w": 55,
+      "d": 55,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-04.png",
+    "page": 5
+  },
+  {
+    "code": "DC-05",
+    "slug": "dc-05",
+    "category": "dining-chairs",
+    "name": "Selly Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 55 x 75 cm",
+      "w": 50,
+      "d": 55,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/dc-05.png",
+    "page": 5
+  },
+  {
+    "code": "DC-06",
+    "slug": "dc-06",
+    "category": "dining-chairs",
+    "name": "Ansara Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 55 x 75 cm",
+      "w": 50,
+      "d": 55,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-06.png",
+    "page": 5
+  },
+  {
+    "code": "DC-07",
+    "slug": "dc-07",
+    "category": "dining-chairs",
+    "name": "Ropan Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 50 x 80 cm",
+      "w": 45,
+      "d": 50,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-07.png",
+    "page": 5
+  },
+  {
+    "code": "DC-08",
+    "slug": "dc-08",
+    "category": "dining-chairs",
+    "name": "Andara Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 50 x 85 cm",
+      "w": 45,
+      "d": 50,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-08.png",
+    "page": 5
+  },
+  {
+    "code": "DC-09",
+    "slug": "dc-09",
+    "category": "dining-chairs",
+    "name": "Robito Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 55 x 80 cm",
+      "w": 40,
+      "d": 55,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-09.png",
+    "page": 5
+  },
+  {
+    "code": "DC-10",
+    "slug": "dc-10",
+    "category": "dining-chairs",
+    "name": "Lalidiningchair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 50 x 82 cm",
+      "w": 45,
+      "d": 50,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-10.png",
+    "page": 6
+  },
+  {
+    "code": "DC-11",
+    "slug": "dc-11",
+    "category": "dining-chairs",
+    "name": "Pierredining Armchair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 52 x 82 cm",
+      "w": 45,
+      "d": 52,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-11.png",
+    "page": 6
+  },
+  {
+    "code": "DC-12",
+    "slug": "dc-12",
+    "category": "dining-chairs",
+    "name": "Dallasdining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 52 x 83 cm",
+      "w": 45,
+      "d": 52,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-12.png",
+    "page": 6
+  },
+  {
+    "code": "DC-13",
+    "slug": "dc-13",
+    "category": "dining-chairs",
+    "name": "Geraldining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "43 x 46 x 95 cm",
+      "w": 43,
+      "d": 46,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-13.png",
+    "page": 6
+  },
+  {
+    "code": "DC-14",
+    "slug": "dc-14",
+    "category": "dining-chairs",
+    "name": "Sena Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 45 x 90 cm",
+      "w": 48,
+      "d": 45,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-14.png",
+    "page": 6
+  },
+  {
+    "code": "DC-15",
+    "slug": "dc-15",
+    "category": "dining-chairs",
+    "name": "Saniadining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "46 x 55 x 81 cm",
+      "w": 46,
+      "d": 55,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-15.png",
+    "page": 6
+  },
+  {
+    "code": "DC-16",
+    "slug": "dc-16",
+    "category": "dining-chairs",
+    "name": "Adindadining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 55 x 80 cm",
+      "w": 55,
+      "d": 55,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-16.png",
+    "page": 6
+  },
+  {
+    "code": "DC-17",
+    "slug": "dc-17",
+    "category": "dining-chairs",
+    "name": "Doradining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 55 x 75 cm",
+      "w": 50,
+      "d": 55,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-17.png",
+    "page": 6
+  },
+  {
+    "code": "DC-18",
+    "slug": "dc-18",
+    "category": "dining-chairs",
+    "name": "Tinadining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 50 x 75 cm",
+      "w": 55,
+      "d": 50,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-18.png",
+    "page": 6
+  },
+  {
+    "code": "DC-19",
+    "slug": "dc-19",
+    "category": "dining-chairs",
+    "name": "Beechdining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "42 x 60 x 88 cm",
+      "w": 42,
+      "d": 60,
+      "h": 88
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-19.png",
+    "page": 7
+  },
+  {
+    "code": "DC-20",
+    "slug": "dc-20",
+    "category": "dining-chairs",
+    "name": "Restidining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 60 x 85 cm",
+      "w": 40,
+      "d": 60,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-20.png",
+    "page": 7
+  },
+  {
+    "code": "DC-21",
+    "slug": "dc-21",
+    "category": "dining-chairs",
+    "name": "Solvdining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 53 x 78 cm",
+      "w": 45,
+      "d": 53,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-21.png",
+    "page": 7
+  },
+  {
+    "code": "DC-22",
+    "slug": "dc-22",
+    "category": "dining-chairs",
+    "name": "Hoffman Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 53 x 78 cm",
+      "w": 45,
+      "d": 53,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-22.png",
+    "page": 7
+  },
+  {
+    "code": "DC-23",
+    "slug": "dc-23",
+    "category": "dining-chairs",
+    "name": "Afridining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "49 x 57 x 82 cm",
+      "w": 49,
+      "d": 57,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-23.png",
+    "page": 7
+  },
+  {
+    "code": "DC-24",
+    "slug": "dc-24",
+    "category": "dining-chairs",
+    "name": "Dafnedining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "42 x 57 x 80 cm",
+      "w": 42,
+      "d": 57,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-24.png",
+    "page": 7
+  },
+  {
+    "code": "DC-25",
+    "slug": "dc-25",
+    "category": "dining-chairs",
+    "name": "Leiveldining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "46 x 53 x 80 cm",
+      "w": 46,
+      "d": 53,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-25.png",
+    "page": 7
+  },
+  {
+    "code": "DC-26",
+    "slug": "dc-26",
+    "category": "dining-chairs",
+    "name": "Scoopeddining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 57 x 80 cm",
+      "w": 48,
+      "d": 57,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-26.png",
+    "page": 7
+  },
+  {
+    "code": "DC-27",
+    "slug": "dc-27",
+    "category": "dining-chairs",
+    "name": "Lauradining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 40 x 80 cm",
+      "w": 40,
+      "d": 40,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-27.png",
+    "page": 7
+  },
+  {
+    "code": "DC-28",
+    "slug": "dc-28",
+    "category": "dining-chairs",
+    "name": "Windadining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 42 x 86 cm",
+      "w": 45,
+      "d": 42,
+      "h": 86
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-28.png",
+    "page": 8
+  },
+  {
+    "code": "DC-29",
+    "slug": "dc-29",
+    "category": "dining-chairs",
+    "name": "Sasyadining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "47 x 52 x 82 cm",
+      "w": 47,
+      "d": 52,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-29.png",
+    "page": 8
+  },
+  {
+    "code": "DC-30",
+    "slug": "dc-30",
+    "category": "dining-chairs",
+    "name": "Caneydining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "41 x 57 x 76 cm",
+      "w": 41,
+      "d": 57,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-30.png",
+    "page": 8
+  },
+  {
+    "code": "DC-31",
+    "slug": "dc-31",
+    "category": "dining-chairs",
+    "name": "Hillxdining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "43 x 40 x 80 cm",
+      "w": 43,
+      "d": 40,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-31.png",
+    "page": 8
+  },
+  {
+    "code": "DC-32",
+    "slug": "dc-32",
+    "category": "dining-chairs",
+    "name": "Katodining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "48 x 49 x 75 cm",
+      "w": 48,
+      "d": 49,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-32.png",
+    "page": 8
+  },
+  {
+    "code": "DC-33",
+    "slug": "dc-33",
+    "category": "dining-chairs",
+    "name": "Tatadining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 60 x 84 cm",
+      "w": 45,
+      "d": 60,
+      "h": 84
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-33.png",
+    "page": 8
+  },
+  {
+    "code": "DC-34",
+    "slug": "dc-34",
+    "category": "dining-chairs",
+    "name": "Sloanedining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 55 x 80 cm",
+      "w": 45,
+      "d": 55,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-34.png",
+    "page": 8
+  },
+  {
+    "code": "DC-35",
+    "slug": "dc-35",
+    "category": "dining-chairs",
+    "name": "Meritdining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 59 x 83 cm",
+      "w": 45,
+      "d": 59,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-35.png",
+    "page": 8
+  },
+  {
+    "code": "DC-36",
+    "slug": "dc-36",
+    "category": "dining-chairs",
+    "name": "Freaya Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "48.3 x 52 x 89 cm",
+      "w": 48.3,
+      "d": 52,
+      "h": 89
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-36.png",
+    "page": 8
+  },
+  {
+    "code": "DC-37",
+    "slug": "dc-37",
+    "category": "dining-chairs",
+    "name": "Zio Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "56 x 56 x 83 cm",
+      "w": 56,
+      "d": 56,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-37.png",
+    "page": 9
+  },
+  {
+    "code": "DC-38",
+    "slug": "dc-38",
+    "category": "dining-chairs",
+    "name": "Swing Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 47,5 x 74,5 cm",
+      "w": 55,
+      "d": 47.5,
+      "h": 74.5
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-38.png",
+    "page": 9
+  },
+  {
+    "code": "DC-39",
+    "slug": "dc-39",
+    "category": "dining-chairs",
+    "name": "Naele Dining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "59 x 48 x 73 cm",
+      "w": 59,
+      "d": 48,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-39.png",
+    "page": 9
+  },
+  {
+    "code": "DC-40",
+    "slug": "dc-40",
+    "category": "dining-chairs",
+    "name": "Embick Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "63 x 53 x 75 cm",
+      "w": 63,
+      "d": 53,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-40.png",
+    "page": 9
+  },
+  {
+    "code": "DC-41",
+    "slug": "dc-41",
+    "category": "dining-chairs",
+    "name": "Wishbone Dining Chair",
+    "material": "Teak & Syntetic rattan",
+    "dimensions": {
+      "raw": "56 x 54 x 77 cm",
+      "w": 56,
+      "d": 54,
+      "h": 77
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-41.png",
+    "page": 9
+  },
+  {
+    "code": "DC-42",
+    "slug": "dc-42",
+    "category": "dining-chairs",
+    "name": "Malory Dining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "56 x 50 x 78 cm",
+      "w": 56,
+      "d": 50,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-42.png",
+    "page": 9
+  },
+  {
+    "code": "DC-43",
+    "slug": "dc-43",
+    "category": "dining-chairs",
+    "name": "Samir Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 X 55 X 80 cm",
+      "w": 55,
+      "d": 55,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-43.png",
+    "page": 9
+  },
+  {
+    "code": "DC-44",
+    "slug": "dc-44",
+    "category": "dining-chairs",
+    "name": "Katakana Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "59 x 54 x 74 cm",
+      "w": 59,
+      "d": 54,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-44.png",
+    "page": 9
+  },
+  {
+    "code": "DC-45",
+    "slug": "dc-45",
+    "category": "dining-chairs",
+    "name": "Anyam Dining Chair",
+    "material": "Teak & Syntetic rattan",
+    "dimensions": {
+      "raw": "56 x 54 x 77 cm",
+      "w": 56,
+      "d": 54,
+      "h": 77
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-45.png",
+    "page": 9
+  },
+  {
+    "code": "DC-46",
+    "slug": "dc-46",
+    "category": "dining-chairs",
+    "name": "Suivi Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "59 x 59 x 83 cm",
+      "w": 59,
+      "d": 59,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-46.png",
+    "page": 10
+  },
+  {
+    "code": "DC-47",
+    "slug": "dc-47",
+    "category": "dining-chairs",
+    "name": "Emmy Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "54 x 59 x 78 cm",
+      "w": 54,
+      "d": 59,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-47.png",
+    "page": 10
+  },
+  {
+    "code": "DC-48",
+    "slug": "dc-48",
+    "category": "dining-chairs",
+    "name": "Rogue Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "59 x 57 x 85 cm",
+      "w": 59,
+      "d": 57,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-48.png",
+    "page": 10
+  },
+  {
+    "code": "DC-49",
+    "slug": "dc-49",
+    "category": "dining-chairs",
+    "name": "Velburg Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "54 x 54 x 76 cm",
+      "w": 54,
+      "d": 54,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-49.png",
+    "page": 10
+  },
+  {
+    "code": "DC-50",
+    "slug": "dc-50",
+    "category": "dining-chairs",
+    "name": "Havana Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "58 x 57 x 77 cm",
+      "w": 58,
+      "d": 57,
+      "h": 77
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-50.png",
+    "page": 10
+  },
+  {
+    "code": "DC-51",
+    "slug": "dc-51",
+    "category": "dining-chairs",
+    "name": "Seine Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "62 x 59 x 78 cm",
+      "w": 62,
+      "d": 59,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-51.png",
+    "page": 10
+  },
+  {
+    "code": "DC-52",
+    "slug": "dc-52",
+    "category": "dining-chairs",
+    "name": "Flair Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 41 x 82 cm",
+      "w": 45,
+      "d": 41,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-52.png",
+    "page": 10
+  },
+  {
+    "code": "DC-53",
+    "slug": "dc-53",
+    "category": "dining-chairs",
+    "name": "Wips Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "56 x 56 x 84 cm",
+      "w": 56,
+      "d": 56,
+      "h": 84
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-53.png",
+    "page": 10
+  },
+  {
+    "code": "DC-54",
+    "slug": "dc-54",
+    "category": "dining-chairs",
+    "name": "Henley Dining Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 52 x 82 cm",
+      "w": 45,
+      "d": 52,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-54.png",
+    "page": 10
+  },
+  {
+    "code": "DC-55",
+    "slug": "dc-55",
+    "category": "dining-chairs",
+    "name": "Cesca Dining Chair",
+    "material": "Teak wood/Stainless",
+    "dimensions": {
+      "raw": "46 x 59 x 80 cm",
+      "w": 46,
+      "d": 59,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-55.png",
+    "page": 11
+  },
+  {
+    "code": "DC-56",
+    "slug": "dc-56",
+    "category": "dining-chairs",
+    "name": "Cea Dining Armchair",
+    "material": "Teak wood/Stainless",
+    "dimensions": {
+      "raw": "46 x 59 x 80 cm",
+      "w": 46,
+      "d": 59,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-56.png",
+    "page": 11
+  },
+  {
+    "code": "DC-57",
+    "slug": "dc-57",
+    "category": "dining-chairs",
+    "name": "Amalia Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "56 x 48 x 80 cm",
+      "w": 56,
+      "d": 48,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-57.png",
+    "page": 11
+  },
+  {
+    "code": "DC-58",
+    "slug": "dc-58",
+    "category": "dining-chairs",
+    "name": "Monsxau Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "54 x 53 x 83 cm",
+      "w": 54,
+      "d": 53,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-58.png",
+    "page": 11
+  },
+  {
+    "code": "DC-59",
+    "slug": "dc-59",
+    "category": "dining-chairs",
+    "name": "Cambria Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "61 x 57 x 70 cm",
+      "w": 61,
+      "d": 57,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-59.png",
+    "page": 11
+  },
+  {
+    "code": "DC-60",
+    "slug": "dc-60",
+    "category": "dining-chairs",
+    "name": "Dunham Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "53 x 58 x 78 cm",
+      "w": 53,
+      "d": 58,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-60.png",
+    "page": 11
+  },
+  {
+    "code": "DC-61",
+    "slug": "dc-61",
+    "category": "dining-chairs",
+    "name": "Cabrillo Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "56 x 54 x 78 cm",
+      "w": 56,
+      "d": 54,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-61.png",
+    "page": 11
+  },
+  {
+    "code": "DC-62",
+    "slug": "dc-62",
+    "category": "dining-chairs",
+    "name": "Corsica Chair",
+    "material": "Teak & Syntetic rattan",
+    "dimensions": {
+      "raw": "65 x 60 x 79 cm",
+      "w": 65,
+      "d": 60,
+      "h": 79
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-62.png",
+    "page": 11
+  },
+  {
+    "code": "DC-63",
+    "slug": "dc-63",
+    "category": "dining-chairs",
+    "name": "Poly Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "51 x 58 x 76 cm",
+      "w": 51,
+      "d": 58,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-63.png",
+    "page": 11
+  },
+  {
+    "code": "DC-73",
+    "slug": "dc-73",
+    "category": "dining-chairs",
+    "name": "Mood Armchair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "57 x 60 x 80 cm",
+      "w": 57,
+      "d": 60,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-73.png",
+    "page": 12
+  },
+  {
+    "code": "DC-74",
+    "slug": "dc-74",
+    "category": "dining-chairs",
+    "name": "Brendan Dining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "58 x 60 x 78 cm",
+      "w": 58,
+      "d": 60,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-74.png",
+    "page": 12
+  },
+  {
+    "code": "DC-75",
+    "slug": "dc-75",
+    "category": "dining-chairs",
+    "name": "California Chair",
+    "material": "Alumunium & Rope",
+    "dimensions": {
+      "raw": "Universal/Standard"
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-75.png",
+    "page": 12
+  },
+  {
+    "code": "DC-76",
+    "slug": "dc-76",
+    "category": "dining-chairs",
+    "name": "Jhondining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "59 x 54 x 83 cm",
+      "w": 59,
+      "d": 54,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-76.png",
+    "page": 12
+  },
+  {
+    "code": "DC-77",
+    "slug": "dc-77",
+    "category": "dining-chairs",
+    "name": "Woven Dining Chair",
+    "material": "Teak wood & Webbing",
+    "dimensions": {
+      "raw": "56 x 48 x 80 cm",
+      "w": 56,
+      "d": 48,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-77.png",
+    "page": 12
+  },
+  {
+    "code": "DC-78",
+    "slug": "dc-78",
+    "category": "dining-chairs",
+    "name": "Dunham Chair",
+    "material": "Teak wood & Webbing",
+    "dimensions": {
+      "raw": "53 x 58 x 78 cm",
+      "w": 53,
+      "d": 58,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-78.png",
+    "page": 12
+  },
+  {
+    "code": "DC-79",
+    "slug": "dc-79",
+    "category": "dining-chairs",
+    "name": "Winnetka Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "55 x 63 x 93 cm",
+      "w": 55,
+      "d": 63,
+      "h": 93
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-79.png",
+    "page": 12
+  },
+  {
+    "code": "DC-80",
+    "slug": "dc-80",
+    "category": "dining-chairs",
+    "name": "Tapestry Dining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "59 x 62 x 87 cm",
+      "w": 59,
+      "d": 62,
+      "h": 87
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-80.png",
+    "page": 12
+  },
+  {
+    "code": "DC-81",
+    "slug": "dc-81",
+    "category": "dining-chairs",
+    "name": "Alia Dining Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "63 x 64 x 83 cm",
+      "w": 63,
+      "d": 64,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-81.png",
+    "page": 12
+  },
+  {
+    "code": "DC-82",
+    "slug": "dc-82",
+    "category": "dining-chairs",
+    "name": "Richmond Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 45 x 75 cm",
+      "w": 45,
+      "d": 45,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-82.png",
+    "page": 13
+  },
+  {
+    "code": "DC-83",
+    "slug": "dc-83",
+    "category": "dining-chairs",
+    "name": "Luna Armchair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "58 x 60 x 78 cm",
+      "w": 58,
+      "d": 60,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-83.png",
+    "page": 13
+  },
+  {
+    "code": "DC-84",
+    "slug": "dc-84",
+    "category": "dining-chairs",
+    "name": "Karol Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 55 x 83 cm",
+      "w": 50,
+      "d": 55,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-84.png",
+    "page": 13
+  },
+  {
+    "code": "DC-85",
+    "slug": "dc-85",
+    "category": "dining-chairs",
+    "name": "Kan Dining Armchair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "59 x 61 x 82 cm",
+      "w": 59,
+      "d": 61,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-85.png",
+    "page": 13
+  },
+  {
+    "code": "DC-86",
+    "slug": "dc-86",
+    "category": "dining-chairs",
+    "name": "Rothler Armchair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "57 x 62 x 81 cm",
+      "w": 57,
+      "d": 62,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-86.png",
+    "page": 13
+  },
+  {
+    "code": "DC-87",
+    "slug": "dc-87",
+    "category": "dining-chairs",
+    "name": "Wing Back Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 59 x 84 cm",
+      "w": 55,
+      "d": 59,
+      "h": 84
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-87.png",
+    "page": 13
+  },
+  {
+    "code": "DC-88",
+    "slug": "dc-88",
+    "category": "dining-chairs",
+    "name": "Devon Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "61 x 59 x76 cm",
+      "w": 61,
+      "d": 59,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-88.png",
+    "page": 13
+  },
+  {
+    "code": "DC-89",
+    "slug": "dc-89",
+    "category": "dining-chairs",
+    "name": "Mark Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "62 x 61 x 85 cm",
+      "w": 62,
+      "d": 61,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-89.png",
+    "page": 13
+  },
+  {
+    "code": "DC-90",
+    "slug": "dc-90",
+    "category": "dining-chairs",
+    "name": "Eugenio Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "52 x 58 x 83 cm",
+      "w": 52,
+      "d": 58,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-90.png",
+    "page": 13
+  },
+  {
+    "code": "DC-91",
+    "slug": "dc-91",
+    "category": "dining-chairs",
+    "name": "Valencia Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "49 x 53 x 78 cm",
+      "w": 49,
+      "d": 53,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-91.png",
+    "page": 14
+  },
+  {
+    "code": "DC-92",
+    "slug": "dc-92",
+    "category": "dining-chairs",
+    "name": "Hippo Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "47 x 59 x 79 cm",
+      "w": 47,
+      "d": 59,
+      "h": 79
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-92.png",
+    "page": 14
+  },
+  {
+    "code": "DC-93",
+    "slug": "dc-93",
+    "category": "dining-chairs",
+    "name": "Modrest Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 50 x 80 cm",
+      "w": 48,
+      "d": 50,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-93.png",
+    "page": 14
+  },
+  {
+    "code": "DC-94",
+    "slug": "dc-94",
+    "category": "dining-chairs",
+    "name": "Curved Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "57 x 53 x 80 cm",
+      "w": 57,
+      "d": 53,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-94.png",
+    "page": 14
+  },
+  {
+    "code": "DC-95",
+    "slug": "dc-95",
+    "category": "dining-chairs",
+    "name": "Tilda Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "59 x 56 70 cm",
+      "w": 59,
+      "d": 56,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-95.png",
+    "page": 14
+  },
+  {
+    "code": "DC-96",
+    "slug": "dc-96",
+    "category": "dining-chairs",
+    "name": "Karl Dining Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "68 x 62 x 70 cm",
+      "w": 68,
+      "d": 62,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-96.png",
+    "page": 14
+  },
+  {
+    "code": "DC-97",
+    "slug": "dc-97",
+    "category": "dining-chairs",
+    "name": "Dux Dining Armchair",
+    "material": "Teak wood/Metal",
+    "dimensions": {
+      "raw": "62 x 62 x 82 cm",
+      "w": 62,
+      "d": 62,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/dc-97.png",
+    "page": 14
+  },
+  {
+    "code": "DC-98",
+    "slug": "dc-98",
+    "category": "dining-chairs",
+    "name": "Enid Armchair",
+    "material": "Metal",
+    "dimensions": {
+      "raw": "47 x 56 x 80 cm",
+      "w": 47,
+      "d": 56,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-98.png",
+    "page": 14
+  },
+  {
+    "code": "DC-99",
+    "slug": "dc-99",
+    "category": "dining-chairs",
+    "name": "Enid Chair",
+    "material": "Metal",
+    "dimensions": {
+      "raw": "47 x 56 x 80 cm",
+      "w": 47,
+      "d": 56,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dc-99.png",
+    "page": 14
+  },
+  {
+    "code": "DT-01",
+    "slug": "dt-01",
+    "category": "dining-tables",
+    "name": "Valmer Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 80 x 75 cm",
+      "w": 120,
+      "d": 80,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-01.png",
+    "page": 16
+  },
+  {
+    "code": "DT-02",
+    "slug": "dt-02",
+    "category": "dining-tables",
+    "name": "Century Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "140 x 81 x 76 cm",
+      "w": 140,
+      "d": 81,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-02.png",
+    "page": 16
+  },
+  {
+    "code": "DT-03",
+    "slug": "dt-03",
+    "category": "dining-tables",
+    "name": "Sorelia Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "140 x 80 x 75 cm",
+      "w": 140,
+      "d": 80,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-03.png",
+    "page": 16
+  },
+  {
+    "code": "DT-04",
+    "slug": "dt-04",
+    "category": "dining-tables",
+    "name": "Ligna Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "100 x 100 x 75 cm",
+      "w": 100,
+      "d": 100,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-04.png",
+    "page": 16
+  },
+  {
+    "code": "DT-05",
+    "slug": "dt-05",
+    "category": "dining-tables",
+    "name": "Aeris Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "100 x 100 x 78 cm",
+      "w": 100,
+      "d": 100,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-05.png",
+    "page": 16
+  },
+  {
+    "code": "DT-06",
+    "slug": "dt-06",
+    "category": "dining-tables",
+    "name": "Esstisch Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "D115 x 76 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-06.png",
+    "page": 16
+  },
+  {
+    "code": "DT-07",
+    "slug": "dt-07",
+    "category": "dining-tables",
+    "name": "George Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 76 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-07.png",
+    "page": 17
+  },
+  {
+    "code": "DT-08",
+    "slug": "dt-08",
+    "category": "dining-tables",
+    "name": "Silas Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 75 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-08.png",
+    "page": 17
+  },
+  {
+    "code": "DT-09",
+    "slug": "dt-09",
+    "category": "dining-tables",
+    "name": "Wahlen Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 120 x 76 cm",
+      "w": 120,
+      "d": 120,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-09.png",
+    "page": 17
+  },
+  {
+    "code": "DT-10",
+    "slug": "dt-10",
+    "category": "dining-tables",
+    "name": "Janet Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "90 x 78 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-10.png",
+    "page": 17
+  },
+  {
+    "code": "DT-11",
+    "slug": "dt-11",
+    "category": "dining-tables",
+    "name": "Starburst Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 75 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-11.png",
+    "page": 17
+  },
+  {
+    "code": "DT-12",
+    "slug": "dt-12",
+    "category": "dining-tables",
+    "name": "Pedestal Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 76 cm"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-12.png",
+    "page": 17
+  },
+  {
+    "code": "DT-13",
+    "slug": "dt-13",
+    "category": "dining-tables",
+    "name": "Monte Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "160 x 100 x 75 cm",
+      "w": 160,
+      "d": 100,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-13.png",
+    "page": 18
+  },
+  {
+    "code": "DT-14",
+    "slug": "dt-14",
+    "category": "dining-tables",
+    "name": "Rara Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "200 x 90 x 75 cm",
+      "w": 200,
+      "d": 90,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-14.png",
+    "page": 18
+  },
+  {
+    "code": "DT-15",
+    "slug": "dt-15",
+    "category": "dining-tables",
+    "name": "Parker Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "180 x 90 x 76 cm",
+      "w": 180,
+      "d": 90,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-15.png",
+    "page": 18
+  },
+  {
+    "code": "DT-16",
+    "slug": "dt-16",
+    "category": "dining-tables",
+    "name": "Belagio Dining Table",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "140 x 60 x 75 cm",
+      "w": 140,
+      "d": 60,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-16.png",
+    "page": 18
+  },
+  {
+    "code": "DT-17",
+    "slug": "dt-17",
+    "category": "dining-tables",
+    "name": "Arto Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 90 x 75 cm",
+      "w": 150,
+      "d": 90,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-17.png",
+    "page": 18
+  },
+  {
+    "code": "DT-18",
+    "slug": "dt-18",
+    "category": "dining-tables",
+    "name": "Zio Dining Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "210 x 110 x 73 cm",
+      "w": 210,
+      "d": 110,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-18.png",
+    "page": 18
+  },
+  {
+    "code": "DT-19",
+    "slug": "dt-19",
+    "category": "dining-tables",
+    "name": "Tambo Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "220 x 100 x 76 cm",
+      "w": 220,
+      "d": 100,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-19.png",
+    "page": 19
+  },
+  {
+    "code": "DT-20",
+    "slug": "dt-20",
+    "category": "dining-tables",
+    "name": "Latti Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "210 x 90 x 75 cm",
+      "w": 210,
+      "d": 90,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-20.png",
+    "page": 19
+  },
+  {
+    "code": "DT-21",
+    "slug": "dt-21",
+    "category": "dining-tables",
+    "name": "Lewis Loft Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "200 x 90 x 76 cm",
+      "w": 200,
+      "d": 90,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-21.png",
+    "page": 19
+  },
+  {
+    "code": "DT-22",
+    "slug": "dt-22",
+    "category": "dining-tables",
+    "name": "Mesa DE Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "200 x 90 x 75 cm",
+      "w": 200,
+      "d": 90,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-22.png",
+    "page": 19
+  },
+  {
+    "code": "DT-23",
+    "slug": "dt-23",
+    "category": "dining-tables",
+    "name": "Araya Dining Table",
+    "material": "Teak wood & marmer",
+    "dimensions": {
+      "raw": "200 x 100 x 75 cm",
+      "w": 200,
+      "d": 100,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-23.png",
+    "page": 19
+  },
+  {
+    "code": "DT-24",
+    "slug": "dt-24",
+    "category": "dining-tables",
+    "name": "Raul Dining Table",
+    "material": "Teak wood & stainless",
+    "dimensions": {
+      "raw": "200 x 100 x 75 cm",
+      "w": 200,
+      "d": 100,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-24.png",
+    "page": 19
+  },
+  {
+    "code": "DT-25",
+    "slug": "dt-25",
+    "category": "dining-tables",
+    "name": "Hara Suar Table",
+    "material": "Suar wood & Metal",
+    "dimensions": {
+      "raw": "200 x 60 x 76 cm",
+      "w": 200,
+      "d": 60,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-25.png",
+    "page": 20
+  },
+  {
+    "code": "DT-26",
+    "slug": "dt-26",
+    "category": "dining-tables",
+    "name": "Gilang Suar Table",
+    "material": "Suar wood & Metal",
+    "dimensions": {
+      "raw": "200 x 60 x 76 cm",
+      "w": 200,
+      "d": 60,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-26.png",
+    "page": 20
+  },
+  {
+    "code": "DT-27",
+    "slug": "dt-27",
+    "category": "dining-tables",
+    "name": "Raffi Suar Table",
+    "material": "Suar wood & Metal",
+    "dimensions": {
+      "raw": "200 x 60 x 76 cm",
+      "w": 200,
+      "d": 60,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-27.png",
+    "page": 20
+  },
+  {
+    "code": "DT-28",
+    "slug": "dt-28",
+    "category": "dining-tables",
+    "name": "Nura Suar Table",
+    "material": "Suar wood & Metal",
+    "dimensions": {
+      "raw": "200 x 60 x 76 cm",
+      "w": 200,
+      "d": 60,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-28.png",
+    "page": 20
+  },
+  {
+    "code": "DT-29",
+    "slug": "dt-29",
+    "category": "dining-tables",
+    "name": "Araya Dining Table",
+    "material": "Suar wood",
+    "dimensions": {
+      "raw": "200 x 100 x 76 cm",
+      "w": 200,
+      "d": 100,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-29.png",
+    "page": 20
+  },
+  {
+    "code": "DT-30",
+    "slug": "dt-30",
+    "category": "dining-tables",
+    "name": "Linda Dining Table",
+    "material": "Suar wood",
+    "dimensions": {
+      "raw": "150 x 60 x 76 cm",
+      "w": 150,
+      "d": 60,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/dt-30.png",
+    "page": 20
+  },
+  {
+    "code": "BT-01",
+    "slug": "bt-01",
+    "category": "bar-stools",
+    "name": "Aksis Barstool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 55 x 100 cm",
+      "w": 50,
+      "d": 55,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-01.png",
+    "page": 22
+  },
+  {
+    "code": "BT-02",
+    "slug": "bt-02",
+    "category": "bar-stools",
+    "name": "Hiroshima Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 50 x 100 cm",
+      "w": 45,
+      "d": 50,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-02.png",
+    "page": 22
+  },
+  {
+    "code": "BT-03",
+    "slug": "bt-03",
+    "category": "bar-stools",
+    "name": "Amare Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 52 x 103 cm",
+      "w": 45,
+      "d": 52,
+      "h": 103
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-03.png",
+    "page": 22
+  },
+  {
+    "code": "BT-04",
+    "slug": "bt-04",
+    "category": "bar-stools",
+    "name": "Hven Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 54 x 100 cm",
+      "w": 48,
+      "d": 54,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-04.png",
+    "page": 22
+  },
+  {
+    "code": "BT-05",
+    "slug": "bt-05",
+    "category": "bar-stools",
+    "name": "Laguna Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "52 x 56 x 100 cm",
+      "w": 52,
+      "d": 56,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-05.png",
+    "page": 22
+  },
+  {
+    "code": "BT-06",
+    "slug": "bt-06",
+    "category": "bar-stools",
+    "name": "Penta Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 47 x 90 cm",
+      "w": 48,
+      "d": 47,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-06.png",
+    "page": 22
+  },
+  {
+    "code": "BT-07",
+    "slug": "bt-07",
+    "category": "bar-stools",
+    "name": "Zara Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 54 x 98 cm",
+      "w": 48,
+      "d": 54,
+      "h": 98
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-07.png",
+    "page": 22
+  },
+  {
+    "code": "BT-08",
+    "slug": "bt-08",
+    "category": "bar-stools",
+    "name": "Mila Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "42 x 49 x 106 cm",
+      "w": 42,
+      "d": 49,
+      "h": 106
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-08.png",
+    "page": 22
+  },
+  {
+    "code": "BT-09",
+    "slug": "bt-09",
+    "category": "bar-stools",
+    "name": "Rina Barstool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 48 x 95 cm",
+      "w": 50,
+      "d": 48,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-09.png",
+    "page": 22
+  },
+  {
+    "code": "BT-10",
+    "slug": "bt-10",
+    "category": "bar-stools",
+    "name": "Tabouret Barstool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "44 x 51 x 110 cm",
+      "w": 44,
+      "d": 51,
+      "h": 110
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-10.png",
+    "page": 23
+  },
+  {
+    "code": "BT-11",
+    "slug": "bt-11",
+    "category": "bar-stools",
+    "name": "Domino Barstool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "36 x 50 x 90 cm",
+      "w": 36,
+      "d": 50,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-11.png",
+    "page": 23
+  },
+  {
+    "code": "BT-12",
+    "slug": "bt-12",
+    "category": "bar-stools",
+    "name": "Najam Bar Stool",
+    "material": "Teak wood & rattan",
+    "dimensions": {
+      "raw": "45 x 49 x 85 cm",
+      "w": 45,
+      "d": 49,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-12.png",
+    "page": 23
+  },
+  {
+    "code": "BT-13",
+    "slug": "bt-13",
+    "category": "bar-stools",
+    "name": "Edith Bar Counter",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "43 x 53 x 90 cm",
+      "w": 43,
+      "d": 53,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-13.png",
+    "page": 23
+  },
+  {
+    "code": "BT-14",
+    "slug": "bt-14",
+    "category": "bar-stools",
+    "name": "Flair Barstool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 52 x 90 cm",
+      "w": 45,
+      "d": 52,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-14.png",
+    "page": 23
+  },
+  {
+    "code": "BT-15",
+    "slug": "bt-15",
+    "category": "bar-stools",
+    "name": "Spirit Barstool",
+    "material": "Teak & synthetic weave",
+    "dimensions": {
+      "raw": "50 x 48 x 95 cm",
+      "w": 50,
+      "d": 48,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-15.png",
+    "page": 23
+  },
+  {
+    "code": "BT-16",
+    "slug": "bt-16",
+    "category": "bar-stools",
+    "name": "Ori High Stool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "42 x 58 x 105 cm",
+      "w": 42,
+      "d": 58,
+      "h": 105
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-16.png",
+    "page": 23
+  },
+  {
+    "code": "BT-17",
+    "slug": "bt-17",
+    "category": "bar-stools",
+    "name": "Scranton Barchair",
+    "material": "Teak & Syntetic rattan",
+    "dimensions": {
+      "raw": "53 x 55 x 77 cm",
+      "w": 53,
+      "d": 55,
+      "h": 77
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-17.png",
+    "page": 23
+  },
+  {
+    "code": "BT-18",
+    "slug": "bt-18",
+    "category": "bar-stools",
+    "name": "Wishbone Barstool",
+    "material": "Teak & Syntetic rattan",
+    "dimensions": {
+      "raw": "46 x 53 x 107 cm",
+      "w": 46,
+      "d": 53,
+      "h": 107
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-18.png",
+    "page": 23
+  },
+  {
+    "code": "BT-19",
+    "slug": "bt-19",
+    "category": "bar-stools",
+    "name": "Mono Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "40 x 40 x 90 cm",
+      "w": 40,
+      "d": 40,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-19.png",
+    "page": 24
+  },
+  {
+    "code": "BT-20",
+    "slug": "bt-20",
+    "category": "bar-stools",
+    "name": "Lara Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "43 x 44 x 100 cm",
+      "w": 43,
+      "d": 44,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-20.png",
+    "page": 24
+  },
+  {
+    "code": "BT-21",
+    "slug": "bt-21",
+    "category": "bar-stools",
+    "name": "Ardo Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "53 x 48 x 88 cm",
+      "w": 53,
+      "d": 48,
+      "h": 88
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-21.png",
+    "page": 24
+  },
+  {
+    "code": "BT-22",
+    "slug": "bt-22",
+    "category": "bar-stools",
+    "name": "Gilmorebar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 58 x 110 cm",
+      "w": 55,
+      "d": 58,
+      "h": 110
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-22.png",
+    "page": 24
+  },
+  {
+    "code": "BT-23",
+    "slug": "bt-23",
+    "category": "bar-stools",
+    "name": "Tex Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 46 x 100 cm",
+      "w": 48,
+      "d": 46,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-23.png",
+    "page": 24
+  },
+  {
+    "code": "BT-24",
+    "slug": "bt-24",
+    "category": "bar-stools",
+    "name": "Tiro Barstool",
+    "material": "Teak wood & Leather",
+    "dimensions": {
+      "raw": "45 x 50 x 100 cm",
+      "w": 45,
+      "d": 50,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-24.png",
+    "page": 24
+  },
+  {
+    "code": "BT-25",
+    "slug": "bt-25",
+    "category": "bar-stools",
+    "name": "Qahwa Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "42 x 45 x 95 cm",
+      "w": 42,
+      "d": 45,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-25.png",
+    "page": 24
+  },
+  {
+    "code": "BT-26",
+    "slug": "bt-26",
+    "category": "bar-stools",
+    "name": "Citra Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 54 x 98cm / by request"
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-26.png",
+    "page": 24
+  },
+  {
+    "code": "BT-27",
+    "slug": "bt-27",
+    "category": "bar-stools",
+    "name": "Abya Bar Stool",
+    "material": "Teak & synthetic weave",
+    "dimensions": {
+      "raw": "45 x 45 x 95 cm",
+      "w": 45,
+      "d": 45,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-27.png",
+    "page": 24
+  },
+  {
+    "code": "BT-28",
+    "slug": "bt-28",
+    "category": "bar-stools",
+    "name": "Sven Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 46 x 67 cm",
+      "w": 45,
+      "d": 46,
+      "h": 67
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-28.png",
+    "page": 25
+  },
+  {
+    "code": "BT-29",
+    "slug": "bt-29",
+    "category": "bar-stools",
+    "name": "Luna Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "46 x 47 x 80 cm",
+      "w": 46,
+      "d": 47,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-29.png",
+    "page": 25
+  },
+  {
+    "code": "BT-30",
+    "slug": "bt-30",
+    "category": "bar-stools",
+    "name": "Tiki Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "48 x 54 x 98 cm",
+      "w": 48,
+      "d": 54,
+      "h": 98
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-30.png",
+    "page": 25
+  },
+  {
+    "code": "BT-31",
+    "slug": "bt-31",
+    "category": "bar-stools",
+    "name": "Zander Barstool",
+    "material": "Teak wood & Syntetic rattan",
+    "dimensions": {
+      "raw": "42 x 43 x 66 cm",
+      "w": 42,
+      "d": 43,
+      "h": 66
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-31.png",
+    "page": 25
+  },
+  {
+    "code": "BT-32",
+    "slug": "bt-32",
+    "category": "bar-stools",
+    "name": "Betty Barstool",
+    "material": "Teak wood & Webbing",
+    "dimensions": {
+      "raw": "40 x 40 x 76 cm",
+      "w": 40,
+      "d": 40,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-32.png",
+    "page": 25
+  },
+  {
+    "code": "BT-33",
+    "slug": "bt-33",
+    "category": "bar-stools",
+    "name": "Sackit Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "46 x 33 x 73 cm",
+      "w": 46,
+      "d": 33,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-33.png",
+    "page": 25
+  },
+  {
+    "code": "BT-34",
+    "slug": "bt-34",
+    "category": "bar-stools",
+    "name": "Binon Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "45 x 38 x 60 cm",
+      "w": 45,
+      "d": 38,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/bt-34.png",
+    "page": 25
+  },
+  {
+    "code": "BT-35",
+    "slug": "bt-35",
+    "category": "bar-stools",
+    "name": "Bidun Bar Stool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "46 x 37.5 x 60 cm",
+      "w": 46,
+      "d": 37.5,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/bt-35.png",
+    "page": 25
+  },
+  {
+    "code": "BT-36",
+    "slug": "bt-36",
+    "category": "bar-stools",
+    "name": "Amara Bar Stool",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "Dia. 38 x 65 cm / by request"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-36.png",
+    "page": 25
+  },
+  {
+    "code": "BT-37",
+    "slug": "bt-37",
+    "category": "bar-stools",
+    "name": "Yanet Barstool",
+    "material": "Metal& Rope",
+    "dimensions": {
+      "raw": "50 x 50 x 85 cm",
+      "w": 50,
+      "d": 50,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-37.png",
+    "page": 26
+  },
+  {
+    "code": "BT-38",
+    "slug": "bt-38",
+    "category": "bar-stools",
+    "name": "Lagarto Barstool",
+    "material": "Metal & Rope",
+    "dimensions": {
+      "raw": "53 x 53 x 100 cm",
+      "w": 53,
+      "d": 53,
+      "h": 100
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-38.png",
+    "page": 26
+  },
+  {
+    "code": "BT-39",
+    "slug": "bt-39",
+    "category": "bar-stools",
+    "name": "Zahara Barstool",
+    "material": "Metal/MDF",
+    "dimensions": {
+      "raw": "47 x 50 x 89 cm",
+      "w": 47,
+      "d": 50,
+      "h": 89
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-39.png",
+    "page": 26
+  },
+  {
+    "code": "BT-40",
+    "slug": "bt-40",
+    "category": "bar-stools",
+    "name": "Portofino Barstool",
+    "material": "Metal/Iron",
+    "dimensions": {
+      "raw": "56 x 53 x 91 cm",
+      "w": 56,
+      "d": 53,
+      "h": 91
+    },
+    "finish": "By request : By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bt-40.png",
+    "page": 26
+  },
+  {
+    "code": "BT-41",
+    "slug": "bt-41",
+    "category": "bar-stools",
+    "name": "Atalanta Barstool",
+    "material": "Metal/iron",
+    "dimensions": {
+      "raw": "49 x 53 x 90 cm",
+      "w": 49,
+      "d": 53,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-41.png",
+    "page": 26
+  },
+  {
+    "code": "BT-42",
+    "slug": "bt-42",
+    "category": "bar-stools",
+    "name": "Angel Barstool",
+    "material": "Metal/iron",
+    "dimensions": {
+      "raw": "60 x 57 x 96 cm",
+      "w": 60,
+      "d": 57,
+      "h": 96
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bt-42.png",
+    "page": 26
+  },
+  {
+    "code": "BT-43",
+    "slug": "bt-43",
+    "category": "bar-stools",
+    "name": "Angelo Barstool",
+    "material": "Metal/Iron",
+    "dimensions": {
+      "raw": "51 x 50 x 90 cm",
+      "w": 51,
+      "d": 50,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/bt-43.png",
+    "page": 26
+  },
+  {
+    "code": "BT-44",
+    "slug": "bt-44",
+    "category": "bar-stools",
+    "name": "Chad Barstool",
+    "material": "Metal/MDF",
+    "dimensions": {
+      "raw": "53 x 51 x 98 cm",
+      "w": 53,
+      "d": 51,
+      "h": 98
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/bt-44.png",
+    "page": 26
+  },
+  {
+    "code": "BT-45",
+    "slug": "bt-45",
+    "category": "bar-stools",
+    "name": "Diego Barstool",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "52 x 40 x 95 cm",
+      "w": 52,
+      "d": 40,
+      "h": 95
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": "By request",
+    "image": "../assets/products/bt-45.png",
+    "page": 26
+  },
+  {
+    "code": "LC-01",
+    "slug": "lc-01",
+    "category": "lounge-chairs",
+    "name": "Jeanner Lounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "73 x 81 x 76 cm",
+      "w": 73,
+      "d": 81,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-01.png",
+    "page": 28
+  },
+  {
+    "code": "LC-02",
+    "slug": "lc-02",
+    "category": "lounge-chairs",
+    "name": "Itania Lounge Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "100 x 70 x 80 cm",
+      "w": 100,
+      "d": 70,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/lc-02.png",
+    "page": 28
+  },
+  {
+    "code": "LC-03",
+    "slug": "lc-03",
+    "category": "lounge-chairs",
+    "name": "Linnea Lounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "60 x 60 x 80 cm",
+      "w": 60,
+      "d": 60,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-03.png",
+    "page": 28
+  },
+  {
+    "code": "LC-04",
+    "slug": "lc-04",
+    "category": "lounge-chairs",
+    "name": "Accentlounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "79 x 69 x 76 cm",
+      "w": 79,
+      "d": 69,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-04.png",
+    "page": 28
+  },
+  {
+    "code": "LC-05",
+    "slug": "lc-05",
+    "category": "lounge-chairs",
+    "name": "Striplounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "60 x 77 x 60 cm",
+      "w": 60,
+      "d": 77,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-05.png",
+    "page": 28
+  },
+  {
+    "code": "LC-06",
+    "slug": "lc-06",
+    "category": "lounge-chairs",
+    "name": "Canelounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "70 x 75 x 93 cm",
+      "w": 70,
+      "d": 75,
+      "h": 93
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-06.png",
+    "page": 28
+  },
+  {
+    "code": "LC-07",
+    "slug": "lc-07",
+    "category": "lounge-chairs",
+    "name": "Imperial Lounge Chair",
+    "material": "Teak wood & Leather",
+    "dimensions": {
+      "raw": "65 x 80 x 65 cm",
+      "w": 65,
+      "d": 80,
+      "h": 65
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/lc-07.png",
+    "page": 28
+  },
+  {
+    "code": "LC-08",
+    "slug": "lc-08",
+    "category": "lounge-chairs",
+    "name": "Kelly Lounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "100 x 70 x 80 cm",
+      "w": 100,
+      "d": 70,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-08.png",
+    "page": 28
+  },
+  {
+    "code": "LC-09",
+    "slug": "lc-09",
+    "category": "lounge-chairs",
+    "name": "Sungar Lounge Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "74 x 74 x 74 cm",
+      "w": 74,
+      "d": 74,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/lc-09.png",
+    "page": 28
+  },
+  {
+    "code": "LC-10",
+    "slug": "lc-10",
+    "category": "lounge-chairs",
+    "name": "Merit Outdoor Chair",
+    "material": "Teakwood & Rattan",
+    "dimensions": {
+      "raw": "71 x 87 x 81 cm",
+      "w": 71,
+      "d": 87,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-10.png",
+    "page": 29
+  },
+  {
+    "code": "LC-11",
+    "slug": "lc-11",
+    "category": "lounge-chairs",
+    "name": "Woven Modern Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "89 x 91 x 65 cm",
+      "w": 89,
+      "d": 91,
+      "h": 65
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-11.png",
+    "page": 29
+  },
+  {
+    "code": "LC-12",
+    "slug": "lc-12",
+    "category": "lounge-chairs",
+    "name": "Netta Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "73 x 74 x 81 cm",
+      "w": 73,
+      "d": 74,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-12.png",
+    "page": 29
+  },
+  {
+    "code": "LC-13",
+    "slug": "lc-13",
+    "category": "lounge-chairs",
+    "name": "Giganolounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "W 79 x D 88 x H 83 cm",
+      "w": 79,
+      "d": 88,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-13.png",
+    "page": 29
+  },
+  {
+    "code": "LC-14",
+    "slug": "lc-14",
+    "category": "lounge-chairs",
+    "name": "Cameolounge Chair",
+    "material": "Teak wood, Metal & Rope",
+    "dimensions": {
+      "raw": "94 x 80 x 72 cm",
+      "w": 94,
+      "d": 80,
+      "h": 72
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-14.png",
+    "page": 29
+  },
+  {
+    "code": "LC-15",
+    "slug": "lc-15",
+    "category": "lounge-chairs",
+    "name": "Gondolaclub Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "72 x 83.5 x 80 cm",
+      "w": 72,
+      "d": 83.5,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-15.png",
+    "page": 29
+  },
+  {
+    "code": "LC-16",
+    "slug": "lc-16",
+    "category": "lounge-chairs",
+    "name": "Victorin Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "89 x 83 x 83 cm",
+      "w": 89,
+      "d": 83,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-16.png",
+    "page": 29
+  },
+  {
+    "code": "LC-17",
+    "slug": "lc-17",
+    "category": "lounge-chairs",
+    "name": "Walnut Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "68 x 63 x 71 cm",
+      "w": 68,
+      "d": 63,
+      "h": 71
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-17.png",
+    "page": 29
+  },
+  {
+    "code": "LC-18",
+    "slug": "lc-18",
+    "category": "lounge-chairs",
+    "name": "Matira Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "80 x 83 x 64",
+      "w": 80,
+      "d": 83,
+      "h": 64
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-18.png",
+    "page": 29
+  },
+  {
+    "code": "LC-19",
+    "slug": "lc-19",
+    "category": "lounge-chairs",
+    "name": "Balin Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "79 x 82 x 73 cm",
+      "w": 79,
+      "d": 82,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-19.png",
+    "page": 30
+  },
+  {
+    "code": "LC-20",
+    "slug": "lc-20",
+    "category": "lounge-chairs",
+    "name": "Otio Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "66 x 91 x 84 cm",
+      "w": 66,
+      "d": 91,
+      "h": 84
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-20.png",
+    "page": 30
+  },
+  {
+    "code": "LC-21",
+    "slug": "lc-21",
+    "category": "lounge-chairs",
+    "name": "Sillion Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "76 x 93 x 72 cm",
+      "w": 76,
+      "d": 93,
+      "h": 72
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-21.png",
+    "page": 30
+  },
+  {
+    "code": "LC-22",
+    "slug": "lc-22",
+    "category": "lounge-chairs",
+    "name": "Junelounge Chair",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "80 x 84 x 74 cm",
+      "w": 80,
+      "d": 84,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-22.png",
+    "page": 30
+  },
+  {
+    "code": "LC-23",
+    "slug": "lc-23",
+    "category": "lounge-chairs",
+    "name": "Novaklounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "70 x 83 x 74 cm",
+      "w": 70,
+      "d": 83,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-23.png",
+    "page": 30
+  },
+  {
+    "code": "LC-24",
+    "slug": "lc-24",
+    "category": "lounge-chairs",
+    "name": "Ingolounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "85 x 101 x 79 cm",
+      "w": 85,
+      "d": 101,
+      "h": 79
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-24.png",
+    "page": 30
+  },
+  {
+    "code": "LC-25",
+    "slug": "lc-25",
+    "category": "lounge-chairs",
+    "name": "Jacklounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "76 x 90 x 74 cm",
+      "w": 76,
+      "d": 90,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-25.png",
+    "page": 30
+  },
+  {
+    "code": "LC-26",
+    "slug": "lc-26",
+    "category": "lounge-chairs",
+    "name": "Oslolounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "60 x 63 x 76 cm",
+      "w": 60,
+      "d": 63,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-26.png",
+    "page": 30
+  },
+  {
+    "code": "LC-27",
+    "slug": "lc-27",
+    "category": "lounge-chairs",
+    "name": "Deco Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "68 x 60 x 81 cm",
+      "w": 68,
+      "d": 60,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-27.png",
+    "page": 30
+  },
+  {
+    "code": "LC-28",
+    "slug": "lc-28",
+    "category": "lounge-chairs",
+    "name": "Moreno Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "81 x 84 x 66 cm",
+      "w": 81,
+      "d": 84,
+      "h": 66
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-28.png",
+    "page": 31
+  },
+  {
+    "code": "LC-29",
+    "slug": "lc-29",
+    "category": "lounge-chairs",
+    "name": "Khaki Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "80 x 80 x 74 cm",
+      "w": 80,
+      "d": 80,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-29.png",
+    "page": 31
+  },
+  {
+    "code": "LC-30",
+    "slug": "lc-30",
+    "category": "lounge-chairs",
+    "name": "Fly SC Lounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "87 x 80 x 70 cm",
+      "w": 87,
+      "d": 80,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-30.png",
+    "page": 31
+  },
+  {
+    "code": "LC-31",
+    "slug": "lc-31",
+    "category": "lounge-chairs",
+    "name": "Indulge Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "74 x 81 x 83 cm",
+      "w": 74,
+      "d": 81,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-31.png",
+    "page": 31
+  },
+  {
+    "code": "LC-32",
+    "slug": "lc-32",
+    "category": "lounge-chairs",
+    "name": "Stringslounge Chair",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "74 x 72 x 82 cm",
+      "w": 74,
+      "d": 72,
+      "h": 82
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-32.png",
+    "page": 31
+  },
+  {
+    "code": "LC-33",
+    "slug": "lc-33",
+    "category": "lounge-chairs",
+    "name": "Jenslounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "71 x 71 x 73 cm",
+      "w": 71,
+      "d": 71,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-33.png",
+    "page": 31
+  },
+  {
+    "code": "LC-34",
+    "slug": "lc-34",
+    "category": "lounge-chairs",
+    "name": "Malibulounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "79 x 88 x 83 cm",
+      "w": 79,
+      "d": 88,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-34.png",
+    "page": 31
+  },
+  {
+    "code": "LC-35",
+    "slug": "lc-35",
+    "category": "lounge-chairs",
+    "name": "Novarlounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "79 x 94 x 94 cm",
+      "w": 79,
+      "d": 94,
+      "h": 94
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/lc-35.png",
+    "page": 31
+  },
+  {
+    "code": "LC-36",
+    "slug": "lc-36",
+    "category": "lounge-chairs",
+    "name": "Collinlounge Chair",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "70 x 60 x 85 cm",
+      "w": 70,
+      "d": 60,
+      "h": 85
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/lc-36.png",
+    "page": 31
+  },
+  {
+    "code": "SF-01",
+    "slug": "sf-01",
+    "category": "sofas",
+    "name": "Audo Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "130 X 70 X 75 cm",
+      "w": 130,
+      "d": 70,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-01.png",
+    "page": 33
+  },
+  {
+    "code": "SF-02",
+    "slug": "sf-02",
+    "category": "sofas",
+    "name": "Tibo Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "130 x 80 x 86 cm",
+      "w": 130,
+      "d": 80,
+      "h": 86
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sf-02.png",
+    "page": 33
+  },
+  {
+    "code": "SF-03",
+    "slug": "sf-03",
+    "category": "sofas",
+    "name": "Ansara Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "203 x 90 x 70 cm",
+      "w": 203,
+      "d": 90,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-03.png",
+    "page": 33
+  },
+  {
+    "code": "SF-04",
+    "slug": "sf-04",
+    "category": "sofas",
+    "name": "Canape Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "178 x 82 x 67 cm",
+      "w": 178,
+      "d": 82,
+      "h": 67
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-04.png",
+    "page": 33
+  },
+  {
+    "code": "SF-05",
+    "slug": "sf-05",
+    "category": "sofas",
+    "name": "Caterpillar Sofa Bed",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "203 x 90 x 70 cm",
+      "w": 203,
+      "d": 90,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-05.png",
+    "page": 33
+  },
+  {
+    "code": "SF-06",
+    "slug": "sf-06",
+    "category": "sofas",
+    "name": "Bobi Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "178 x 82 x 67 cm",
+      "w": 178,
+      "d": 82,
+      "h": 67
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-06.png",
+    "page": 33
+  },
+  {
+    "code": "SF-19",
+    "slug": "sf-19",
+    "category": "sofas",
+    "name": "Aero Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "220 x 85 x 75 cm",
+      "w": 220,
+      "d": 85,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-19.png",
+    "page": 34
+  },
+  {
+    "code": "SF-20",
+    "slug": "sf-20",
+    "category": "sofas",
+    "name": "Konami Sofa",
+    "material": "Teak & Stainless steel",
+    "dimensions": {
+      "raw": "235 x 80 x 70 cm",
+      "w": 235,
+      "d": 80,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-20.png",
+    "page": 34
+  },
+  {
+    "code": "SF-21",
+    "slug": "sf-21",
+    "category": "sofas",
+    "name": "Seat Armless Sofa",
+    "material": "Teak wood & Cushion",
+    "dimensions": {
+      "raw": "223 x 80 x 63 cm",
+      "w": 223,
+      "d": 80,
+      "h": 63
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-21.png",
+    "page": 34
+  },
+  {
+    "code": "SF-22",
+    "slug": "sf-22",
+    "category": "sofas",
+    "name": "Sway Sofa",
+    "material": "Teak wood, Stainless and Rope",
+    "dimensions": {
+      "raw": "250 x 80 x 70 cm",
+      "w": 250,
+      "d": 80,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-22.png",
+    "page": 34
+  },
+  {
+    "code": "SF-23",
+    "slug": "sf-23",
+    "category": "sofas",
+    "name": "Hem Sofa",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "180 x 81 x 76 cm",
+      "w": 180,
+      "d": 81,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-23.png",
+    "page": 34
+  },
+  {
+    "code": "SF-24",
+    "slug": "sf-24",
+    "category": "sofas",
+    "name": "Targa Sofa",
+    "material": "Metal & Rattan",
+    "dimensions": {
+      "raw": "180 x 84 x 76 cm",
+      "w": 180,
+      "d": 84,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-24.png",
+    "page": 34
+  },
+  {
+    "code": "SF-37",
+    "slug": "sf-37",
+    "category": "sofas",
+    "name": "Stratossectional Sofa",
+    "material": "Teak wood & Cushion",
+    "dimensions": {
+      "raw": "279 x 100 x 70 cm",
+      "w": 279,
+      "d": 100,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-37.png",
+    "page": 35
+  },
+  {
+    "code": "SF-38",
+    "slug": "sf-38",
+    "category": "sofas",
+    "name": "Svillesectional Sofa",
+    "material": "Teak wood & Cushion",
+    "dimensions": {
+      "raw": "300 x 93 x 70 cm",
+      "w": 300,
+      "d": 93,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-38.png",
+    "page": 35
+  },
+  {
+    "code": "SF-39",
+    "slug": "sf-39",
+    "category": "sofas",
+    "name": "Haarlem Sofa",
+    "material": "Teak wood & Cushion",
+    "dimensions": {
+      "raw": "240 x 240 x 70 cm",
+      "w": 240,
+      "d": 240,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-39.png",
+    "page": 35
+  },
+  {
+    "code": "SF-40",
+    "slug": "sf-40",
+    "category": "sofas",
+    "name": "Calile Sofa",
+    "material": "Teak wood & Cushion",
+    "dimensions": {
+      "raw": "280 x 100 x 76 cm",
+      "w": 280,
+      "d": 100,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-40.png",
+    "page": 35
+  },
+  {
+    "code": "SF-41",
+    "slug": "sf-41",
+    "category": "sofas",
+    "name": "Vernonsectional Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "220 x 140 x 76 cm",
+      "w": 220,
+      "d": 140,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-41.png",
+    "page": 35
+  },
+  {
+    "code": "SF-42",
+    "slug": "sf-42",
+    "category": "sofas",
+    "name": "Urban Curve Sofa",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "320 x 70 x 70 cm",
+      "w": 320,
+      "d": 70,
+      "h": 70
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/sf-42.png",
+    "page": 35
+  },
+  {
+    "code": "BC-01",
+    "slug": "bc-01",
+    "category": "benches",
+    "name": "Le Roi Bench",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "120 x 35 x 42 cm",
+      "w": 120,
+      "d": 35,
+      "h": 42
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-01.png",
+    "page": 36
+  },
+  {
+    "code": "BC-02",
+    "slug": "bc-02",
+    "category": "benches",
+    "name": "Greenwald Bench",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "152 x 45 x 50 cm",
+      "w": 152,
+      "d": 45,
+      "h": 50
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-02.png",
+    "page": 36
+  },
+  {
+    "code": "BC-03",
+    "slug": "bc-03",
+    "category": "benches",
+    "name": "Eton Rope Bench",
+    "material": "Teak wood & Rope",
+    "dimensions": {
+      "raw": "110 x 43.5 x 45 cm",
+      "w": 110,
+      "d": 43.5,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-03.png",
+    "page": 36
+  },
+  {
+    "code": "BC-04",
+    "slug": "bc-04",
+    "category": "benches",
+    "name": "Lawka Bench",
+    "material": "Teak wood & Synthetic rattan",
+    "dimensions": {
+      "raw": "110 x 35 x 45 cm",
+      "w": 110,
+      "d": 35,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-04.png",
+    "page": 36
+  },
+  {
+    "code": "BC-05",
+    "slug": "bc-05",
+    "category": "benches",
+    "name": "Amabilia Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 40 x 45 cm",
+      "w": 150,
+      "d": 40,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-05.png",
+    "page": 36
+  },
+  {
+    "code": "BC-06",
+    "slug": "bc-06",
+    "category": "benches",
+    "name": "Tome Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 35 x 40 cm",
+      "w": 120,
+      "d": 35,
+      "h": 40
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/bc-06.png",
+    "page": 36
+  },
+  {
+    "code": "BC-13",
+    "slug": "bc-13",
+    "category": "benches",
+    "name": "Bacal Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "154 x 57 x 55 cm",
+      "w": 154,
+      "d": 57,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-13.png",
+    "page": 37
+  },
+  {
+    "code": "BC-14",
+    "slug": "bc-14",
+    "category": "benches",
+    "name": "Moot Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "132 x 50 x 44 cm",
+      "w": 132,
+      "d": 50,
+      "h": 44
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-14.png",
+    "page": 37
+  },
+  {
+    "code": "BC-15",
+    "slug": "bc-15",
+    "category": "benches",
+    "name": "Socca Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "107 x 35 x 44 cm",
+      "w": 107,
+      "d": 35,
+      "h": 44
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-15.png",
+    "page": 37
+  },
+  {
+    "code": "BC-16",
+    "slug": "bc-16",
+    "category": "benches",
+    "name": "Harvey Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 45 x 53 cm",
+      "w": 150,
+      "d": 45,
+      "h": 53
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-16.png",
+    "page": 37
+  },
+  {
+    "code": "BC-17",
+    "slug": "bc-17",
+    "category": "benches",
+    "name": "Solana Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "110 x 42 x 48 cm",
+      "w": 110,
+      "d": 42,
+      "h": 48
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-17.png",
+    "page": 37
+  },
+  {
+    "code": "BC-18",
+    "slug": "bc-18",
+    "category": "benches",
+    "name": "Otto Bench",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "110 x 46 x 48 cm",
+      "w": 110,
+      "d": 46,
+      "h": 48
+    },
+    "finish": "By request",
+    "fabric": "By request",
+    "leather": null,
+    "image": "../assets/products/bc-18.png",
+    "page": 37
+  },
+  {
+    "code": "CT-01",
+    "slug": "ct-01",
+    "category": "coffee-tables",
+    "name": "Matisse Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "90 x 60 x 45 cm",
+      "w": 90,
+      "d": 60,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-01.png",
+    "page": 39
+  },
+  {
+    "code": "CT-02",
+    "slug": "ct-02",
+    "category": "coffee-tables",
+    "name": "Delta Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "65 x 65 x 43 cm",
+      "w": 65,
+      "d": 65,
+      "h": 43
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-02.png",
+    "page": 39
+  },
+  {
+    "code": "CT-03",
+    "slug": "ct-03",
+    "category": "coffee-tables",
+    "name": "Brooklyn Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "70 x 70 x 44,4 cm",
+      "w": 70,
+      "d": 70,
+      "h": 44.4
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-03.png",
+    "page": 39
+  },
+  {
+    "code": "CT-04",
+    "slug": "ct-04",
+    "category": "coffee-tables",
+    "name": "Pandora Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "65 x 65 x 46 cm",
+      "w": 65,
+      "d": 65,
+      "h": 46
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-04.png",
+    "page": 39
+  },
+  {
+    "code": "CT-05",
+    "slug": "ct-05",
+    "category": "coffee-tables",
+    "name": "Gotham Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "110 x 70 x 36 cm",
+      "w": 110,
+      "d": 70,
+      "h": 36
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-05.png",
+    "page": 39
+  },
+  {
+    "code": "CT-06",
+    "slug": "ct-06",
+    "category": "coffee-tables",
+    "name": "Darla Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "65 x 65 x 40 cm",
+      "w": 65,
+      "d": 65,
+      "h": 40
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-06.png",
+    "page": 39
+  },
+  {
+    "code": "CT-07",
+    "slug": "ct-07",
+    "category": "coffee-tables",
+    "name": "Xajul Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "60 x 60 x 35 cm",
+      "w": 60,
+      "d": 60,
+      "h": 35
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-07.png",
+    "page": 40
+  },
+  {
+    "code": "CT-08",
+    "slug": "ct-08",
+    "category": "coffee-tables",
+    "name": "Szamas Table",
+    "material": "Teak wood & Marmer",
+    "dimensions": {
+      "raw": "60 x 60 x 40 cm",
+      "w": 60,
+      "d": 60,
+      "h": 40
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-08.png",
+    "page": 40
+  },
+  {
+    "code": "CT-09",
+    "slug": "ct-09",
+    "category": "coffee-tables",
+    "name": "Qahwa Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "70 x 70 x 40 cm",
+      "w": 70,
+      "d": 70,
+      "h": 40
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-09.png",
+    "page": 40
+  },
+  {
+    "code": "CT-10",
+    "slug": "ct-10",
+    "category": "coffee-tables",
+    "name": "Ulafa Table",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "70 x 70 x 45 cm",
+      "w": 70,
+      "d": 70,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-10.png",
+    "page": 40
+  },
+  {
+    "code": "CT-11",
+    "slug": "ct-11",
+    "category": "coffee-tables",
+    "name": "Palafi Table",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "55 x 55 x 45 cm",
+      "w": 55,
+      "d": 55,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-11.png",
+    "page": 40
+  },
+  {
+    "code": "CT-12",
+    "slug": "ct-12",
+    "category": "coffee-tables",
+    "name": "Bali Table",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "60 x 60 x 45 cm",
+      "w": 60,
+      "d": 60,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-12.png",
+    "page": 40
+  },
+  {
+    "code": "CT-25",
+    "slug": "ct-25",
+    "category": "coffee-tables",
+    "name": "Zuiver Table",
+    "material": "Teak & Stainless",
+    "dimensions": {
+      "raw": "70 x 70 x 75 cm",
+      "w": 70,
+      "d": 70,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-25.png",
+    "page": 41
+  },
+  {
+    "code": "CT-26",
+    "slug": "ct-26",
+    "category": "coffee-tables",
+    "name": "Orbit Table",
+    "material": "Teak & Stainless steel",
+    "dimensions": {
+      "raw": "55 x 55 x 73 cm",
+      "w": 55,
+      "d": 55,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-26.png",
+    "page": 41
+  },
+  {
+    "code": "CT-27",
+    "slug": "ct-27",
+    "category": "coffee-tables",
+    "name": "Persuit Table",
+    "material": "Teak & Stainless",
+    "dimensions": {
+      "raw": "65 x 65 x 75 cm",
+      "w": 65,
+      "d": 65,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-27.png",
+    "page": 41
+  },
+  {
+    "code": "CT-28",
+    "slug": "ct-28",
+    "category": "coffee-tables",
+    "name": "Claire Table",
+    "material": "Teak & Stainless steel",
+    "dimensions": {
+      "raw": "75 X 65 X 73 cm",
+      "w": 75,
+      "d": 65,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-28.png",
+    "page": 41
+  },
+  {
+    "code": "CT-29",
+    "slug": "ct-29",
+    "category": "coffee-tables",
+    "name": "Utensil Table",
+    "material": "Teak wood & Stainless",
+    "dimensions": {
+      "raw": "70 x 70 x 73 cm",
+      "w": 70,
+      "d": 70,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-29.png",
+    "page": 41
+  },
+  {
+    "code": "CT-30",
+    "slug": "ct-30",
+    "category": "coffee-tables",
+    "name": "Bloom Table",
+    "material": "Teak & Stainless steel",
+    "dimensions": {
+      "raw": "75 x 75 x 73 cm",
+      "w": 75,
+      "d": 75,
+      "h": 73
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ct-30.png",
+    "page": 41
+  },
+  {
+    "code": "NS-01",
+    "slug": "ns-01",
+    "category": "nightstands",
+    "name": "Vienna Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 45 x 55 cm",
+      "w": 45,
+      "d": 45,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-01.png",
+    "page": 43
+  },
+  {
+    "code": "NS-02",
+    "slug": "ns-02",
+    "category": "nightstands",
+    "name": "Powell Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 X 45 x 45 cm",
+      "w": 50,
+      "d": 45,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-02.png",
+    "page": 43
+  },
+  {
+    "code": "NS-03",
+    "slug": "ns-03",
+    "category": "nightstands",
+    "name": "Avi Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "55 x 43 x 58 cm",
+      "w": 55,
+      "d": 43,
+      "h": 58
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-03.png",
+    "page": 43
+  },
+  {
+    "code": "NS-04",
+    "slug": "ns-04",
+    "category": "nightstands",
+    "name": "Tori Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 40 x 55 cm",
+      "w": 45,
+      "d": 40,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-04.png",
+    "page": 43
+  },
+  {
+    "code": "NS-05",
+    "slug": "ns-05",
+    "category": "nightstands",
+    "name": "Prue Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45,7 x 40 x 58 cm",
+      "w": 45.7,
+      "d": 40,
+      "h": 58
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-05.png",
+    "page": 43
+  },
+  {
+    "code": "NS-06",
+    "slug": "ns-06",
+    "category": "nightstands",
+    "name": "Wove Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 X 45 X 50 CM"
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-06.png",
+    "page": 43
+  },
+  {
+    "code": "NS-07",
+    "slug": "ns-07",
+    "category": "nightstands",
+    "name": "Haley Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 40 x 49 cm",
+      "w": 50,
+      "d": 40,
+      "h": 49
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-07.png",
+    "page": 44
+  },
+  {
+    "code": "NS-08",
+    "slug": "ns-08",
+    "category": "nightstands",
+    "name": "Cane Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 X 40 X 50 cm",
+      "w": 45,
+      "d": 40,
+      "h": 50
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-08.png",
+    "page": 44
+  },
+  {
+    "code": "NS-09",
+    "slug": "ns-09",
+    "category": "nightstands",
+    "name": "Aman Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 40 x 60 cm",
+      "w": 50,
+      "d": 40,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-09.png",
+    "page": 44
+  },
+  {
+    "code": "NS-10",
+    "slug": "ns-10",
+    "category": "nightstands",
+    "name": "Lova Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "45 x 40 x 50 cm",
+      "w": 45,
+      "d": 40,
+      "h": 50
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-10.png",
+    "page": 44
+  },
+  {
+    "code": "NS-11",
+    "slug": "ns-11",
+    "category": "nightstands",
+    "name": "Nuveta Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 40 x 60 cm",
+      "w": 40,
+      "d": 40,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-11.png",
+    "page": 44
+  },
+  {
+    "code": "NS-12",
+    "slug": "ns-12",
+    "category": "nightstands",
+    "name": "Virrel Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "50 x 40 x 60 cm",
+      "w": 50,
+      "d": 40,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-12.png",
+    "page": 44
+  },
+  {
+    "code": "NS-13",
+    "slug": "ns-13",
+    "category": "nightstands",
+    "name": "Rozy Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 35 x 60 cm",
+      "w": 40,
+      "d": 35,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-13.png",
+    "page": 45
+  },
+  {
+    "code": "NS-14",
+    "slug": "ns-14",
+    "category": "nightstands",
+    "name": "Leca Nightstand",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "40 x 35 x 60 cm",
+      "w": 40,
+      "d": 35,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-14.png",
+    "page": 45
+  },
+  {
+    "code": "NS-15",
+    "slug": "ns-15",
+    "category": "nightstands",
+    "name": "Yazmin Nightstand",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 42 x 55 cm",
+      "w": 50,
+      "d": 42,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-15.png",
+    "page": 45
+  },
+  {
+    "code": "NS-16",
+    "slug": "ns-16",
+    "category": "nightstands",
+    "name": "Bren Nightstand",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 42 x 60 cm",
+      "w": 50,
+      "d": 42,
+      "h": 60
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-16.png",
+    "page": 45
+  },
+  {
+    "code": "NS-17",
+    "slug": "ns-17",
+    "category": "nightstands",
+    "name": "Elino Nightstand",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "55 x 45 x 55 cm",
+      "w": 55,
+      "d": 45,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-17.png",
+    "page": 45
+  },
+  {
+    "code": "NS-18",
+    "slug": "ns-18",
+    "category": "nightstands",
+    "name": "Bonnie Nightstand",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "50 x 40 x 53 cm",
+      "w": 50,
+      "d": 40,
+      "h": 53
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/ns-18.png",
+    "page": 45
+  },
+  {
+    "code": "SB-01",
+    "slug": "sb-01",
+    "category": "sideboards-tv-cabinets",
+    "name": "Nexus Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 39 x 75 cm",
+      "w": 150,
+      "d": 39,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-01.png",
+    "page": 47
+  },
+  {
+    "code": "SB-02",
+    "slug": "sb-02",
+    "category": "sideboards-tv-cabinets",
+    "name": "Sapphire Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "155 x 39 x 58 cm",
+      "w": 155,
+      "d": 39,
+      "h": 58
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-02.png",
+    "page": 47
+  },
+  {
+    "code": "SB-03",
+    "slug": "sb-03",
+    "category": "sideboards-tv-cabinets",
+    "name": "Dautrefois Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "180 x 45 x 90 cm",
+      "w": 180,
+      "d": 45,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-03.png",
+    "page": 47
+  },
+  {
+    "code": "SB-04",
+    "slug": "sb-04",
+    "category": "sideboards-tv-cabinets",
+    "name": "Ellington Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 45 x 76 cm",
+      "w": 150,
+      "d": 45,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-04.png",
+    "page": 47
+  },
+  {
+    "code": "SB-05",
+    "slug": "sb-05",
+    "category": "sideboards-tv-cabinets",
+    "name": "Raleigh Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "150 x 45 x 84 cm",
+      "w": 150,
+      "d": 45,
+      "h": 84
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-05.png",
+    "page": 47
+  },
+  {
+    "code": "SB-06",
+    "slug": "sb-06",
+    "category": "sideboards-tv-cabinets",
+    "name": "Whitney Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "152 x 43 x 71 cm",
+      "w": 152,
+      "d": 43,
+      "h": 71
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-06.png",
+    "page": 47
+  },
+  {
+    "code": "SB-07",
+    "slug": "sb-07",
+    "category": "sideboards-tv-cabinets",
+    "name": "Springwood Cabinet",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "144 x 45 x 78 cm",
+      "w": 144,
+      "d": 45,
+      "h": 78
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-07.png",
+    "page": 48
+  },
+  {
+    "code": "SB-08",
+    "slug": "sb-08",
+    "category": "sideboards-tv-cabinets",
+    "name": "Blaze Wide Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "140 x 45 x 83 cm",
+      "w": 140,
+      "d": 45,
+      "h": 83
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-08.png",
+    "page": 48
+  },
+  {
+    "code": "SB-09",
+    "slug": "sb-09",
+    "category": "sideboards-tv-cabinets",
+    "name": "Joya Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "129 x 32 x 75 cm",
+      "w": 129,
+      "d": 32,
+      "h": 75
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-09.png",
+    "page": 48
+  },
+  {
+    "code": "SB-10",
+    "slug": "sb-10",
+    "category": "sideboards-tv-cabinets",
+    "name": "Edris Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "100 x 39 x 80 cm",
+      "w": 100,
+      "d": 39,
+      "h": 80
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-10.png",
+    "page": 48
+  },
+  {
+    "code": "SB-11",
+    "slug": "sb-11",
+    "category": "sideboards-tv-cabinets",
+    "name": "Tahiti Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "120 x 40 x 79 cm",
+      "w": 120,
+      "d": 40,
+      "h": 79
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-11.png",
+    "page": 48
+  },
+  {
+    "code": "SB-12",
+    "slug": "sb-12",
+    "category": "sideboards-tv-cabinets",
+    "name": "Samoa Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "100 x 40 x 90 cm",
+      "w": 100,
+      "d": 40,
+      "h": 90
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-12.png",
+    "page": 48
+  },
+  {
+    "code": "SB-13",
+    "slug": "sb-13",
+    "category": "sideboards-tv-cabinets",
+    "name": "Kalila Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "80 x 39 x 65,8 cm",
+      "w": 80,
+      "d": 39,
+      "h": 65.8
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-13.png",
+    "page": 49
+  },
+  {
+    "code": "SB-14",
+    "slug": "sb-14",
+    "category": "sideboards-tv-cabinets",
+    "name": "Chandra Sideboard",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "80 x 30 x 74 cm",
+      "w": 80,
+      "d": 30,
+      "h": 74
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-14.png",
+    "page": 49
+  },
+  {
+    "code": "SB-15",
+    "slug": "sb-15",
+    "category": "sideboards-tv-cabinets",
+    "name": "Tadley Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "91 x 38 x 76 cm",
+      "w": 91,
+      "d": 38,
+      "h": 76
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-15.png",
+    "page": 49
+  },
+  {
+    "code": "SB-16",
+    "slug": "sb-16",
+    "category": "sideboards-tv-cabinets",
+    "name": "Jasper Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "79 x 39 x 79 cm",
+      "w": 79,
+      "d": 39,
+      "h": 79
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-16.png",
+    "page": 49
+  },
+  {
+    "code": "SB-17",
+    "slug": "sb-17",
+    "category": "sideboards-tv-cabinets",
+    "name": "La Redoute Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 47 x 81 cm",
+      "w": 120,
+      "d": 47,
+      "h": 81
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-17.png",
+    "page": 49
+  },
+  {
+    "code": "SB-18",
+    "slug": "sb-18",
+    "category": "sideboards-tv-cabinets",
+    "name": "Century Sideboard",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "81 x 48 x 91 cm",
+      "w": 81,
+      "d": 48,
+      "h": 91
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/sb-18.png",
+    "page": 49
+  },
+  {
+    "code": "TC-01",
+    "slug": "tc-01",
+    "category": "sideboards-tv-cabinets",
+    "name": "Nordic TV Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "120 x 46 x 45 cm",
+      "w": 120,
+      "d": 46,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-01.png",
+    "page": 50
+  },
+  {
+    "code": "TC-02",
+    "slug": "tc-02",
+    "category": "sideboards-tv-cabinets",
+    "name": "Maher TV Cabinet",
+    "material": "Teak wood & Marble",
+    "dimensions": {
+      "raw": "230 x 45 x 52 cm",
+      "w": 230,
+      "d": 45,
+      "h": 52
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-02.png",
+    "page": 50
+  },
+  {
+    "code": "TC-03",
+    "slug": "tc-03",
+    "category": "sideboards-tv-cabinets",
+    "name": "Luna TV Cabinet",
+    "material": "Teak wood & Rattan",
+    "dimensions": {
+      "raw": "210 x 45 x 53 cm",
+      "w": 210,
+      "d": 45,
+      "h": 53
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-03.png",
+    "page": 50
+  },
+  {
+    "code": "TC-04",
+    "slug": "tc-04",
+    "category": "sideboards-tv-cabinets",
+    "name": "Yorke TV Cabinet",
+    "material": "Teak wood & Marble",
+    "dimensions": {
+      "raw": "200 x 45 x 55 cm",
+      "w": 200,
+      "d": 45,
+      "h": 55
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-04.png",
+    "page": 50
+  },
+  {
+    "code": "TC-05",
+    "slug": "tc-05",
+    "category": "sideboards-tv-cabinets",
+    "name": "Quin TV Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "210 x 45 x 45 cm",
+      "w": 210,
+      "d": 45,
+      "h": 45
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-05.png",
+    "page": 50
+  },
+  {
+    "code": "TC-06",
+    "slug": "tc-06",
+    "category": "sideboards-tv-cabinets",
+    "name": "Graphic TV Cabinet",
+    "material": "Teak wood",
+    "dimensions": {
+      "raw": "242 x 45 x 53 cm",
+      "w": 242,
+      "d": 45,
+      "h": 53
+    },
+    "finish": "By request",
+    "fabric": null,
+    "leather": null,
+    "image": "../assets/products/tc-06.png",
+    "page": 50
+  }
+]
