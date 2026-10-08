@@ -34,5 +34,5 @@ function applyFilter() {
 filter.addEventListener('change', applyFilter);
 applyFilter();
 
-const target = location.hash && document.getElementById(location.hash.slice(1));
+const target = location.hash ? document.getElementById(location.hash.slice(1)) : null;
 if (target?.classList.contains('card')) { target.scrollIntoView({ block: 'center' }); open(target); }
