@@ -8,7 +8,7 @@
   --ink-soft: #5b6150;
   --amber: #b9772e;
   --amber-text: #9a6123; /* 4.5:1 on paper and under white; --amber is 3.2:1, non-text only */
-  --grey: #8c8c8c;
+  --grey: #898989; /* exact grey of the PDF product panels */
   --line: rgba(46, 53, 36, 0.18);
   --font-display: 'Fraunces Variable', Georgia, serif;
   --font-body: 'Inter Tight Variable', system-ui, sans-serif;
