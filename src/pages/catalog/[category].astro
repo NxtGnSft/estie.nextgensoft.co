@@ -43,7 +43,7 @@ const materials = [...new Set(products.map((p) => p.material))].sort();
   .switcher { position: sticky; top: 4rem; z-index: 10; background: var(--paper); border-bottom: 1px solid var(--line); }
   .switcher ul { display: flex; gap: 1.25rem; overflow-x: auto; list-style: none; margin: 0 auto; padding: 0.75rem var(--gutter); scrollbar-width: none; white-space: nowrap; }
   .switcher a { text-decoration: none; font-size: 0.95rem; padding-bottom: 0.25rem; border-bottom: 2px solid transparent; }
-  .switcher a[aria-current="page"] { border-color: var(--amber); color: var(--amber); }
+  .switcher a[aria-current="page"] { border-color: var(--amber); color: var(--amber-text); }
   .head { display: grid; gap: 1.5rem; align-items: end; margin-bottom: 2.5rem; }
   @media (min-width: 800px) { .head { grid-template-columns: 1fr auto; } }
   .lead { color: var(--ink-soft); max-width: 56ch; }

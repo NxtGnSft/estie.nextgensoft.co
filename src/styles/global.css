@@ -7,6 +7,7 @@
   --ink: #2e3524;
   --ink-soft: #5b6150;
   --amber: #b9772e;
+  --amber-text: #9a6123; /* 4.5:1 on paper and under white; --amber is 3.2:1, non-text only */
   --grey: #8c8c8c;
   --line: rgba(46, 53, 36, 0.18);
   --font-display: 'Fraunces Variable', Georgia, serif;
@@ -49,7 +50,7 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.6rem); }
   transition: background 0.2s var(--ease), color 0.2s var(--ease), border-color 0.2s var(--ease);
 }
 .btn:hover { background: var(--ink); color: var(--paper); }
-.btn-primary { background: var(--amber); border-color: var(--amber); color: #fff; }
+.btn-primary { background: var(--amber-text); border-color: var(--amber-text); color: #fff; }
 .btn-primary:hover { background: var(--ink); border-color: var(--ink); }
 .btn-ghost { border-color: rgba(255, 255, 255, 0.6); color: #fff; }
 .btn-ghost:hover { background: #fff; color: var(--ink); }
