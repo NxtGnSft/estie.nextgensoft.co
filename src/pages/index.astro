@@ -22,7 +22,7 @@ const PROJECTS = ['Cafes and restaurants', 'Cafes and restaurants', 'Villa and h
 const SWATCHES = { 'swatch-fabric': 'Fabric', 'swatch-finish': 'Finishing colour', 'swatch-rattan': 'Rattan', 'swatch-webbing': 'Webbing' } as const;
 const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
 ---
-<Base title="Teak furniture for cafes, hotels and homes" description={`${COMPANY.legalName}: export-quality teak furniture made in Semarang. 291 dining chairs, tables, stools, lounge chairs, sofas and cabinets, finish and fabric by request.`}>
+<Base title="Teak furniture for cafes, hotels and homes" description={`${COMPANY.legalName}: export-quality teak furniture made in Semarang. ${products.length} dining chairs, tables, stools, lounge chairs, sofas and cabinets, finish and fabric by request.`}>
   <section id="hero" class="hero" style={`background-image:url(${heroBg.src})`}>
     <div class="container hero-inner">
       <p class="mono">Semarang, Indonesia · Est. teak workshop</p>
