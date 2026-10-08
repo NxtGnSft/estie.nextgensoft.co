@@ -148,6 +148,10 @@ def find_products(page) -> list[tuple[str, pymupdf.Rect]]:
 
 
 def rows_under(page, box: pymupdf.Rect, y_limit: float) -> list[str]:
+    # The 100pt tolerance on the lower bound is safe because the minimum box height across
+    # all 291 products is 132.05pt, which exceeds 100pt: box.y1 - 100 can never drop below
+    # box.y0 (the box's own top edge), so this can never reach up into the preceding
+    # product's row above the box.
     items = [s for s in spans(page)
              if box.x0 - 15 <= s["rect"].x0 < box.x1 and box.y1 - 100 < s["rect"].y0 < y_limit
              and not CODE_RE.match(s["text"])]
