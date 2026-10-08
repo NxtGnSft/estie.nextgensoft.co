@@ -1,6 +1,6 @@
 # estie.nextgensoft.co
 
-Catalog website for PT Estie Kusuma Indonesia (teak furniture, Semarang). Live at https://estie.nextgensoft.co.
+Catalog website for PT. Estie Kusuma Indonesia (teak furniture, Semarang). Live at https://estie.nextgensoft.co.
 
 - `npm run dev` — local dev server
 - `npm run build` — static build to `dist/`
