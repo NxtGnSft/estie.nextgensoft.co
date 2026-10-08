@@ -3,11 +3,27 @@ import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { COMPANY } from '../data/company';
+import { getImage } from 'astro:assets';
+import hero from '../assets/site/hero.jpg';
+import logo from '../assets/site/logo.png';
 
 interface Props { title: string; description: string; }
 const { title, description } = Astro.props;
 const umami = import.meta.env.PUBLIC_UMAMI_ID;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const og = await getImage({ src: hero, width: 600, height: 315, fit: 'cover', format: 'jpg' });
+const logoImg = await getImage({ src: logo, format: 'png' });
+const jsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: COMPANY.name,
+  legalName: COMPANY.legalName,
+  url: Astro.site,
+  logo: new URL(logoImg.src, Astro.site),
+  telephone: `+${COMPANY.phoneE164}`,
+  email: COMPANY.email,
+  address: { '@type': 'PostalAddress', streetAddress: COMPANY.address[0], addressLocality: 'Semarang', postalCode: '50141', addressCountry: 'ID' },
+});
 ---
 <!doctype html>
 <html lang="en">
@@ -21,6 +37,13 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={COMPANY.name} />
+    <meta property="og:image" content={new URL(og.src, Astro.site)} />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="315" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script type="application/ld+json" set:html={jsonLd} />
     <meta name="theme-color" content="#2e3524" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {umami && <script defer src="https://cloud.umami.is/script.js" data-website-id={umami}></script>}
