@@ -14,7 +14,7 @@ const { product: p } = Astro.props;
   </button>
   <div class="meta">
     <span class="mono code">{p.code}</span>
-    <h3>{p.name}</h3>
+    <h2>{p.name}</h2>
     <p class="spec">{p.material}</p>
     <p class="spec mono">{p.dimensions.raw}</p>
   </div>
@@ -27,7 +27,7 @@ const { product: p } = Astro.props;
   .card-open img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.5s var(--ease); }
   .card:hover .card-open img { transform: scale(1.03); }
   .code { color: var(--amber); }
-  h3 { font-size: 1.15rem; margin-top: 0.15rem; }
+  h2 { font-size: 1.15rem; margin-top: 0.15rem; }
   .spec { margin: 0.1rem 0 0; color: var(--ink-soft); font-size: 0.9rem; }
   .spec.mono { text-transform: none; letter-spacing: 0; }
 </style>
