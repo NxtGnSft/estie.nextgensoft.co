@@ -2,7 +2,7 @@ export const COMPANY = {
   name: 'Estie Kusuma Indonesia',
   legalName: 'PT. Estie Kusuma Indonesia',
   tagline: 'Export-quality teak furniture, made in Indonesia.',
-  address: ['Puspanjolo Barat Raya 71-73', 'Semarang 50141', 'Indonesia'],
+  address: ['Puspanjolo Barat Raya 71-73', 'Semarang', 'Indonesia'],
   phoneDisplay: '+62 813 9119 9692',
   phoneE164: '6281391199692',
   email: 'ekusumaindonesia@gmail.com',

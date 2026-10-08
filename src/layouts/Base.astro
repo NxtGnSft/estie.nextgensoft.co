@@ -22,7 +22,7 @@ const jsonLd = JSON.stringify({
   logo: new URL(logoImg.src, Astro.site),
   telephone: `+${COMPANY.phoneE164}`,
   email: COMPANY.email,
-  address: { '@type': 'PostalAddress', streetAddress: COMPANY.address[0], addressLocality: 'Semarang', postalCode: '50141', addressCountry: 'ID' },
+  address: { '@type': 'PostalAddress', streetAddress: COMPANY.address[0], addressLocality: 'Semarang', addressCountry: 'ID' },
 });
 ---
 <!doctype html>
