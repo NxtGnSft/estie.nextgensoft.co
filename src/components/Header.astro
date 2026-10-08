@@ -1,0 +1,32 @@
+---
+import { COMPANY, waLink } from '../data/company';
+const links = [
+  { href: '/catalog/dining-chairs/', label: 'Catalog' },
+  { href: '/#process', label: 'Process' },
+  { href: '/#projects', label: 'Projects' },
+  { href: '/#contact', label: 'Contact' },
+];
+---
+<header class="site-header">
+  <div class="container row">
+    <a href="/" class="brand">{COMPANY.name}</a>
+    <nav aria-label="Primary">
+      <ul>
+        {links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+        <li><a class="wa" href={waLink()} target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+          <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2m0 1.8a8.2 8.2 0 1 1-4.2 15.3l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 0 1 12 3.8m-3 4.3c-.2 0-.5 0-.7.3-.3.3-1 1-1 2.4s1 2.8 1.2 3c.1.2 2 3.1 4.9 4.2 2.4.9 2.9.8 3.4.7.5 0 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.3-.1-.1-.3-.2-.6-.3l-2-1c-.3-.1-.5-.2-.7.2l-.9 1.1c-.2.2-.3.2-.6.1a6.7 6.7 0 0 1-3.4-2.9c-.2-.4.3-.4.8-1.4.1-.2 0-.4 0-.5l-.9-2.2c-.2-.6-.5-.5-.6-.5z"/></svg>
+        </a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<style>
+  .site-header { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--paper) 88%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+  .row { display: flex; align-items: center; justify-content: space-between; min-height: 4rem; gap: 1rem; }
+  .brand { font-family: var(--font-display); font-size: 1.25rem; text-decoration: none; white-space: nowrap; }
+  ul { display: flex; gap: clamp(0.75rem, 2vw, 1.75rem); list-style: none; margin: 0; padding: 0; align-items: center; }
+  nav a { text-decoration: none; font-size: 0.95rem; }
+  nav a:hover { color: var(--amber); }
+  .wa { display: inline-grid; place-items: center; width: 2.4rem; height: 2.4rem; border-radius: 999px; background: var(--amber); color: #fff; }
+  @media (max-width: 640px) { nav a:not(.wa) { font-size: 0.85rem; } }
+</style>

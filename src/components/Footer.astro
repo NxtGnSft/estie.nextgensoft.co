@@ -1,0 +1,34 @@
+---
+import { COMPANY, waLink } from '../data/company';
+---
+<footer id="contact" class="section">
+  <div class="container">
+    <p class="section-label">06 Contact</p>
+    <div class="grid">
+      <div>
+        <h2>Let's talk about your project.</h2>
+        <p class="lead">Finish, fabric, and sizing are made to order. Send us the product codes you like and we'll quote.</p>
+        <p class="actions">
+          <a class="btn btn-primary" href={waLink()} target="_blank" rel="noopener">WhatsApp {COMPANY.phoneDisplay}</a>
+          <a class="btn" href={COMPANY.pdf} download>Download catalog (PDF)</a>
+        </p>
+      </div>
+      <address>
+        <strong>{COMPANY.legalName}</strong><br />
+        {COMPANY.address.map((l) => <>{l}<br /></>)}
+        <a href={`mailto:${COMPANY.email}`}>{COMPANY.email}</a><br />
+        <a href={`tel:+${COMPANY.phoneE164}`}>{COMPANY.phoneDisplay}</a>
+      </address>
+    </div>
+    <hr class="hairline" />
+    <p class="mono small">© {new Date().getFullYear()} {COMPANY.legalName} · Semarang, Indonesia</p>
+  </div>
+</footer>
+<style>
+  .grid { display: grid; gap: 2rem; grid-template-columns: 1fr; margin-bottom: 3rem; }
+  @media (min-width: 800px) { .grid { grid-template-columns: 2fr 1fr; } }
+  .lead { max-width: 48ch; color: var(--ink-soft); }
+  .actions { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+  address { font-style: normal; line-height: 1.7; }
+  .small { margin-top: 1.5rem; color: var(--ink-soft); }
+</style>
