@@ -46,8 +46,7 @@ const jsonLd = JSON.stringify({
     <script type="application/ld+json" set:html={jsonLd} />
     <meta name="theme-color" content="#2e3524" />
     <link rel="sitemap" href="/sitemap-index.xml" />
-    {umami && <script defer src="https://cloud.umami.is/script.js" data-website-id={umami}></script>}
-    {/* No SRI hash: Umami Cloud rotates this script; same pattern as distressdeals.id */}
+    {umami && <script defer src="https://analytics.nextgensoft.co/script.js" data-website-id={umami}></script>}
   </head>
   <body>
     <Header />
