@@ -5,10 +5,10 @@ const COUNTS: Record<string, number> = {
   'benches': 12, 'coffee-tables': 18, 'nightstands': 18, 'sideboards-tv-cabinets': 24,
 };
 
-test('home renders hero, tiles and contact', async ({ page }) => {
+test('home renders hero, catalog index and contact', async ({ page }) => {
   await page.goto('/');
   await expect(page.locator('h1')).toContainText('Teak furniture');
-  await expect(page.locator('#categories li')).toHaveCount(9);
+  await expect(page.locator('#catalog .index li')).toHaveCount(9);
   await expect(page.locator('#contact a[href^="https://wa.me/6281391199692"]')).toBeVisible();
 });
 

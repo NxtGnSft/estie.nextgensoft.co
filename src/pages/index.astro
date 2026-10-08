@@ -1,5 +1,5 @@
 ---
-import { Image, getImage } from 'astro:assets';
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import { CATEGORIES } from '../data/categories';
@@ -7,7 +7,7 @@ import { COMPANY, waLink } from '../data/company';
 import hero from '../assets/site/hero.jpg';
 
 const products = await getCollection('products');
-const tiles = CATEGORIES.map((c) => {
+const rows = CATEGORIES.map((c) => {
   const items = products.filter((p) => p.data.category === c.slug);
   return { ...c, count: items.length, cover: items[0].data.image };
 });
@@ -20,40 +20,48 @@ const sorted = (m: Record<string, { default: ImageMetadata }>) => Object.keys(m)
 const PROCESS = ['Raw material', 'Kiln dry / oven', 'Craftsman', 'Oven process', 'Sanding', 'QC', 'Packing', 'Loading'];
 const PROJECTS = ['Cafes and restaurants', 'Cafes and restaurants', 'Villa and hotel', 'Villa and hotel', 'Cafe, resto and bar', 'Cafe, resto and bar'];
 const SWATCHES = { 'swatch-fabric': 'Fabric', 'swatch-finish': 'Finishing colour', 'swatch-rattan': 'Rattan', 'swatch-webbing': 'Webbing' } as const;
-const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
 ---
 <Base title="Teak furniture for cafes, hotels and homes" description={`${COMPANY.legalName}: export-quality teak furniture made in Semarang. ${products.length} dining chairs, tables, stools, lounge chairs, sofas and cabinets, finish and fabric by request.`}>
-  <section id="hero" class="hero" style={`background-image:url(${heroBg.src})`}>
-    <div class="container hero-inner">
-      <p class="mono">Semarang, Indonesia · Est. teak workshop</p>
+  <section id="hero" class="hero container">
+    <div class="hero-text">
+      <p class="mono">Semarang, Indonesia · Teak workshop</p>
       <h1>Teak furniture, made to order for cafes, hotels and homes.</h1>
-      <p class="lead">Export-quality craftsmanship, kiln-dried teak, finish and fabric to your specification.</p>
+      <p class="lead">Export-quality craftsmanship, kiln-dried teak, finish and fabric to your specification. {products.length} designs, shipped from Semarang.</p>
       <p class="actions">
-        <a class="btn btn-primary" href="/catalog/dining-chairs/">Browse the catalog</a>
-        <a class="btn btn-ghost" href={waLink()} target="_blank" rel="noopener">WhatsApp us</a>
+        <a class="btn btn-primary" href="#catalog">Browse the catalog</a>
+        <a class="btn" href={waLink()} target="_blank" rel="noopener">WhatsApp us</a>
       </p>
     </div>
+    <Image class="hero-img" src={hero} width={600} height={800} alt="Teak lounge chair and side table on a lawn" loading="eager" />
   </section>
 
-  <section id="categories" class="section container">
-    <p class="section-label">01 Catalog</p>
-    <ul class="tiles">
-      {tiles.map((t) => (
+  <hr class="hairline" />
+  <section id="catalog" class="section container">
+    <div class="head">
+      <p class="section-label">Catalog</p>
+      <p class="mono note">{products.length} designs in {rows.length} categories · <a href={COMPANY.pdf} download>PDF catalog</a></p>
+    </div>
+    <ol class="index">
+      {rows.map((r) => (
         <li class="reveal">
-          <a href={`/catalog/${t.slug}/`}>
-            <Image src={t.cover} alt="" width={480} height={450} />
-            <span class="tile-text"><span>{t.title}</span><span class="mono">{t.count} items</span></span>
+          <a href={`/catalog/${r.slug}/`}>
+            <span class="thumb"><Image src={r.cover} alt="" width={480} height={240} fit="cover" position="centre" /></span>
+            <span class="text">
+              <span class="name">{r.title}</span>
+              <span class="blurb">{r.blurb}</span>
+            </span>
+            <span class="mono count">{r.count} designs <span aria-hidden="true">→</span></span>
           </a>
         </li>
       ))}
-    </ul>
+    </ol>
   </section>
 
   <hr class="hairline" />
   <section id="process" class="section container">
-    <p class="section-label">02 Production process</p>
+    <p class="section-label">Production</p>
     <h2 class="reveal">We take pride in furniture that exceeds export-quality standards.</h2>
-    <p class="lead reveal">Every piece is inspected by our quality control team for craftsmanship, durability, and a flawless finish.</p>
+    <p class="lead reveal">Every piece is inspected by our quality control team for craftsmanship, durability, and a flawless finish. Eight steps, in order, from log to container.</p>
     <ol class="strip">
       {sorted(processImgs).map((img, i) => (
         <li class="reveal">
@@ -66,7 +74,7 @@ const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
 
   <hr class="hairline" />
   <section id="projects" class="section container">
-    <p class="section-label">03 Our projects</p>
+    <p class="section-label">Projects</p>
     <ul class="projects">
       {sorted(projectImgs).map((img, i) => (
         <li class="reveal"><Image src={img} alt={PROJECTS[i]} width={800} /><span class="mono">{PROJECTS[i]}</span></li>
@@ -76,7 +84,7 @@ const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
 
   <hr class="hairline" />
   <section id="materials" class="section container">
-    <p class="section-label">04 Materials</p>
+    <p class="section-label">Materials</p>
     <h2 class="reveal">Finish and fabric by request.</h2>
     <ul class="swatches">
       {Object.entries(SWATCHES).map(([key, label]) => (
@@ -88,24 +96,49 @@ const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
 </Base>
 
 <style>
-  .hero { min-height: 92svh; display: grid; align-items: end; background-size: cover; background-position: center; color: #fff; position: relative; }
-  .hero::before { content: ''; position: absolute; inset: 0; background: linear-gradient(to top, rgba(46,53,36,0.85), rgba(46,53,36,0.15) 60%); }
-  .hero-inner { position: relative; padding-block: clamp(3rem, 8vw, 6rem); max-width: 60ch; }
-  .hero .lead { font-size: 1.15rem; max-width: 48ch; opacity: 0.9; }
-  .actions { display: flex; flex-wrap: wrap; gap: 0.75rem; }
-  .lead { color: var(--ink-soft); max-width: 56ch; }
-  .tiles, .strip, .projects, .swatches { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem; }
-  .tiles { grid-template-columns: repeat(2, 1fr); }
-  .tiles a { display: block; text-decoration: none; background: var(--grey); position: relative; aspect-ratio: 16 / 15; overflow: hidden; }
-  .tiles img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s var(--ease); }
-  .tiles a:hover img { transform: scale(1.04); }
-  .tile-text { position: absolute; inset: auto 0 0 0; padding: 0.75rem 1rem; background: linear-gradient(to top, rgba(46,53,36,0.9), transparent); color: #fff; display: flex; justify-content: space-between; align-items: baseline; }
-  .strip { grid-template-columns: repeat(2, 1fr); margin-top: 2rem; counter-reset: step; }
+  .hero { display: grid; gap: 2rem; padding-block: clamp(2.5rem, 6vw, 5rem); align-items: center; }
+  .hero-text { display: grid; gap: 1.25rem; max-width: 60ch; }
+  .hero-text .mono { color: var(--ink-soft); margin: 0; }
+  .hero-text h1 { font-size: clamp(2.5rem, 6vw, 4.75rem); }
+  .hero-text .lead { margin: 0; }
+  .hero-img { width: 100%; max-width: 520px; aspect-ratio: 3 / 4; object-fit: cover; justify-self: end; }
+  .actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 0; }
+  .lead { color: var(--ink-soft); max-width: 56ch; font-size: 1.1rem; }
+
+  .head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 1rem; }
+  .note { color: var(--ink-soft); margin: 0 0 clamp(1.5rem, 3vw, 2.5rem); }
+  .index { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .index li { border-bottom: 1px solid var(--line); }
+  .index a {
+    display: grid; grid-template-columns: 6.5rem 1fr; grid-template-areas: 'thumb text' 'thumb count';
+    gap: 0.35rem 1.25rem; align-items: center; padding-block: 1.25rem; text-decoration: none;
+  }
+  .thumb { grid-area: thumb; display: block; aspect-ratio: 2 / 1; overflow: hidden; background: var(--grey); }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; transform: scale(1.3); transition: transform 0.6s var(--ease); }
+  .index a:hover .thumb img { transform: scale(1.38); }
+  .text { grid-area: text; display: grid; gap: 0.25rem; }
+  .name { font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2.5rem); line-height: 1.05; letter-spacing: -0.01em; transition: color 0.2s var(--ease); }
+  .index a:hover .name { color: var(--amber-text); }
+  .blurb { display: none; color: var(--ink-soft); font-size: 0.95rem; max-width: 52ch; }
+  .count { grid-area: count; color: var(--ink-soft); white-space: nowrap; }
+  .count span { display: inline-block; transition: transform 0.3s var(--ease); }
+  .index a:hover .count span { transform: translateX(0.3em); }
+
+  .strip, .projects, .swatches { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.25rem; }
+  .strip { grid-template-columns: repeat(2, 1fr); margin-top: 2rem; }
   .strip img { aspect-ratio: 16 / 9; object-fit: cover; width: 100%; }
   .strip .mono, .projects .mono, .swatches .mono { display: block; margin-top: 0.5rem; color: var(--ink-soft); }
   .projects { grid-template-columns: repeat(2, 1fr); }
   .projects img { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; }
   .swatches { grid-template-columns: repeat(2, 1fr); margin-top: 2rem; }
   .swatches img { aspect-ratio: 1; object-fit: cover; width: 100%; }
-  @media (min-width: 800px) { .tiles { grid-template-columns: repeat(3, 1fr); } .strip { grid-template-columns: repeat(4, 1fr); } .projects { grid-template-columns: repeat(3, 1fr); } .swatches { grid-template-columns: repeat(4, 1fr); } }
+
+  @media (min-width: 800px) {
+    .hero { grid-template-columns: 1.2fr 1fr; gap: clamp(2rem, 6vw, 6rem); }
+    .index a { grid-template-columns: 13rem 1fr auto; grid-template-areas: 'thumb text count'; gap: 2.5rem; padding-block: 1.75rem; }
+    .blurb { display: block; }
+    .strip { grid-template-columns: repeat(4, 1fr); }
+    .projects { grid-template-columns: repeat(3, 1fr); }
+    .swatches { grid-template-columns: repeat(4, 1fr); }
+  }
 </style>
