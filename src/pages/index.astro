@@ -17,7 +17,7 @@ const projectImgs = import.meta.glob<{ default: ImageMetadata }>('../assets/site
 const swatchImgs = import.meta.glob<{ default: ImageMetadata }>('../assets/site/swatch-*.png', { eager: true });
 const sorted = (m: Record<string, { default: ImageMetadata }>) => Object.keys(m).sort().map((k) => m[k].default);
 
-const PROCESS = ['Raw material', 'Kiln dry / oven', 'Craftsman', 'Over process', 'Sanding', 'QC', 'Packing', 'Loading'];
+const PROCESS = ['Raw material', 'Kiln dry / oven', 'Craftsman', 'Oven process', 'Sanding', 'QC', 'Packing', 'Loading'];
 const PROJECTS = ['Cafes and restaurants', 'Cafes and restaurants', 'Villa and hotel', 'Villa and hotel', 'Cafe, resto and bar', 'Cafe, resto and bar'];
 const SWATCHES = { 'swatch-fabric': 'Fabric', 'swatch-finish': 'Finishing colour', 'swatch-rattan': 'Rattan', 'swatch-webbing': 'Webbing' } as const;
 const heroBg = await getImage({ src: hero, width: 2000, format: 'webp' });
